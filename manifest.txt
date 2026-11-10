@@ -1050,6 +1050,7 @@ _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_1mX4jw.webp 971cf5da
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_6CzvJ.webp 1670b9c1a280d8e20815bff938b107655351289e
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_SGvRb.webp 848ae5fea977a4cacb6202d835d2a9017928fdfc
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_Z1Q1A52.webp d8f912930eb695e99d790159fe0d24f308f19e7f
+_astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_Z1Sv6lH.webp 5eae3c0c9b6bdea0dc913ebd1f95bab2d5edd3c9
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_ZRaSuz.webp 1482459a91d0fa3d1215e479541d54592e64f798
 _astro/2026-10-09-wow-forever-ambermill-leyline-focus.BLEd97cG_2or5pL.webp 98fb6726621f55aa9e3adcc4b44aa9b3ecfe5d62
 _astro/2026-10-09-wow-forever-beta-week-4.DOrjtmoN_ZL2kpR.webp b0cb2d0c42e3540e5c682914d16c999df50914b8
@@ -1240,6 +1241,7 @@ _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_174KRq.webp 73
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_1MvcKd.webp 5a13ab096c1902803e82055657e61a9aacf56e8a
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_1MzOKa.webp aa0722a0e166607cad8dc40af054c7fab649f541
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_2spP8V.webp 22e1fd3eef649c3be16f622c07e3d61128c2e588
+_astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_HnMW6.webp 3ef093323366d63469e5f79626cc8fc964406aba
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_Z15izA9.webp b6c27c300a6840ca29bd2542741418f9da4e65dd
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_Z2h5Vwd.webp d49961c27c72a96ec8676edb899c59e88fd518b3
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6_ZE53XL.webp d49961c27c72a96ec8676edb899c59e88fd518b3
@@ -1764,6 +1766,7 @@ _astro/2026-10-23-wow-forever-portal-wetlands-farm.C_ktbioK_Zs8QG8.webp a64eb487
 _astro/2026-10-23-wow-forever-stormwind-portal-to-dalaran-gone.ax2e0X3G_Z1o0IuL.webp 10a35f6983f23b7c1499072c65116bae51426beb
 _astro/2026-10-23-wow-forever-windshear-crag-mine.CQ0jcBl0_Z2dkBP9.webp 70ede9d0135ef74666e152ffa5f2a52572557af2
 _astro/2026-10-24-wow-forever-beast-mastery-hunter-build.d7o7xTUJ.jpg d4659a89b72fd0c16f79089fe6d252da6cae5809
+_astro/2026-10-24-wow-forever-beast-mastery-hunter-build.d7o7xTUJ_2meoRS.webp ae63972402ef522c1bea7e1e4f03282786648d26
 _astro/2026-10-24-wow-forever-beast-mastery-hunter-build.d7o7xTUJ_8dGit.webp bcded0be3c4f982b638c7cd7978baa100bd83548
 _astro/2026-10-24-wow-forever-beast-mastery-hunter-build.d7o7xTUJ_Z24BGjp.webp 2afa5f42aedd6599789657525381348a2fe78343
 _astro/2026-10-24-wow-forever-beast-mastery-hunter-build.d7o7xTUJ_Z2o7sSk.webp 10226c9c127ca9af334c1dee318af1b9aa3eeff6
@@ -1788,6 +1791,7 @@ _astro/2026-10-24-wow-forever-holy-paladin-build.C7zqYz5k_Z2wkovP.webp d53c84c1a
 _astro/2026-10-24-wow-forever-holy-paladin-build.C7zqYz5k_lM5Nb.webp bb2a1a85d459edea670de5756dd983313459ed25
 _astro/2026-10-24-wow-forever-holy-paladin-build.C7zqYz5k_z3ct8.webp 5a1508fd83e0b71038747fc7f09b92f1b91e8693
 _astro/2026-10-24-wow-forever-marksmanship-hunter-build.Bc12xV7X.jpg af9e22ba28c9d36693e03861209e75ced5f4f7c6
+_astro/2026-10-24-wow-forever-marksmanship-hunter-build.Bc12xV7X_29vgBs.webp 3b3fa464ee93cd0d3632be417d67c95caeb06bc3
 _astro/2026-10-24-wow-forever-marksmanship-hunter-build.Bc12xV7X_M7u3F.webp fca6ae1a8ef0c98af79d9ad656fc06ebbe34123f
 _astro/2026-10-24-wow-forever-marksmanship-hunter-build.Bc12xV7X_ZOXPDN.webp 025a0b817e2518ca09d755bf6a187d90c1945511
 _astro/2026-10-24-wow-forever-marksmanship-hunter-build.Bc12xV7X_ZXDadb.webp 00c58566b60214e97be0ea24bbe50564c4491327
