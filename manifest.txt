@@ -24,7 +24,7 @@ _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_3u0Mh.webp 43572225d2dab912f3ffb9
 _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_5q3xt.webp d5e7ff5a41f3d090cc893f5d8263706bbd526115
 _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_Z1CNTCN.webp 6ac7956333c73fbd550462ffb55a50e1fcdb51fe
 _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_Z1LAtO3.webp d5e7ff5a41f3d090cc893f5d8263706bbd526115
-_astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_Z1vvMzp.webp cf91422bcf084c3c438396db305552e387baa0b9
+_astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_Z1vvMzp.webp bc55bf13dbbca40d7a334e71315f4f78019d2523
 _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_ZARm6.webp f26d1d78db09a7e9be9adc94369476e48c068641
 _astro/2026-09-13-wow-forever-key-art.Bzv-jLkx_ZPlMto.webp 055fe91706260e89197816831f2a4864c85eb9e1
 _astro/2026-09-13-wow-forever-skyborne.DPDV9KM4.jpg b07a1bdd99e211610e5d5553ab055c810c7ce07f
@@ -459,7 +459,7 @@ _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM.jpg 75d681098671053cbde0
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_1ieKgH.webp 4eaea6efb6843bb5e769d0be86a1a93d933aa6a9
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_26Q1wp.webp 58a058b9ad0d8a30bdd116a6d24ae54c530f14a6
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_GtTH6.webp abad3385b8cb768b4cff472074daba69dd8aec7f
-_astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_Z14GXGN.webp 1280218a94b16fd72bdfee763cc994f2d51d0c1c
+_astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_Z14GXGN.webp ddd34e2bac86111e3f8e3f5a41990739b1459d91
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_Z19ONUJ.webp e01103e02059c6266986ba358a4df21b8332010c
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_Z1OiEhI.webp a8b1a8bcaf2ae7020b79e5c783b84ae5210f4bf2
 _astro/2026-09-30-wow-forever-sewer-beast-raid.vcpEnyGM_Z25Cj7e.webp 35082bf1b8dee8f38ed857311444e0d41836f46e
@@ -976,7 +976,7 @@ _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y.jpg b8a28b9a719c1648f5c8a
 _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_18vdj6.webp e3abc1f69df0f41105bd97084ea5197bc68fb3f8
 _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_1rg8jr.webp 58e7870cdf885f87287adca19cdf2b6b0d2a143d
 _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_2jn3sQ.webp 58e7870cdf885f87287adca19cdf2b6b0d2a143d
-_astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_Z1HM9MH.webp 7ab0e4730601f69bfed104a98bb73d9321b8de0e
+_astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_Z1HM9MH.webp e00e1c737a86f967a73d13e3cdc0c2d14fee7e3c
 _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_Z2n0nqO.webp 7649202c07207f798e639c285d3c10b33b687d7d
 _astro/2026-10-07-wow-forever-ironforge-crowd.CQCGKO8y_ZjeWuA.webp 7e9a44e49389c523b150c4a0858c06c9edbc6820
 _astro/2026-10-07-wow-forever-lfg-playstyle.DWGdxacq_A6Pl0.webp 9443a9c8dcd71b94714142cdc68ba2bf5dcc35ce
@@ -1050,7 +1050,7 @@ _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_1mX4jw.webp 971cf5da
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_6CzvJ.webp 1670b9c1a280d8e20815bff938b107655351289e
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_SGvRb.webp 848ae5fea977a4cacb6202d835d2a9017928fdfc
 _astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_Z1Q1A52.webp d8f912930eb695e99d790159fe0d24f308f19e7f
-_astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_ZRaSuz.webp fd0055d1285ddb68e429d602d20fd44334467eb7
+_astro/2026-10-08-wow-forever-warlock-talent-trees.BKLx2wn0_ZRaSuz.webp 1482459a91d0fa3d1215e479541d54592e64f798
 _astro/2026-10-09-wow-forever-ambermill-leyline-focus.BLEd97cG_2or5pL.webp 98fb6726621f55aa9e3adcc4b44aa9b3ecfe5d62
 _astro/2026-10-09-wow-forever-beta-week-4.DOrjtmoN_ZL2kpR.webp b0cb2d0c42e3540e5c682914d16c999df50914b8
 _astro/2026-10-09-wow-forever-blackmaw-hold-gate-azshara.hs0f-gUa.jpg e44194ba675b244490f8d859bd386458a57f98b3
@@ -1097,7 +1097,7 @@ _astro/2026-10-09-wow-forever-three-casters.DgZkchHW_Z1kqGjp.webp 28eb7ac8a4ad00
 _astro/2026-10-09-wow-forever-three-casters.DgZkchHW_Z2bSefv.webp e03da0bd7a52f8997159ea34ebc89e938587b5fa
 _astro/2026-10-09-wow-forever-underbelly-summoning-circle.CyCtpB1j_10G35i.webp 08e7605a2f6b2d1eb9bb59460a0ce250a3a4c573
 _astro/2026-10-09-wow-forever-wetlands-stone-guardian.D4u_uXEr.jpg 5c3dbc3493e94085472be9c0019a10b5a67798a3
-_astro/2026-10-09-wow-forever-wetlands-stone-guardian.D4u_uXEr_2jk3aO.webp e9f23f942a325adae41928855dade6d23cc0f235
+_astro/2026-10-09-wow-forever-wetlands-stone-guardian.D4u_uXEr_2jk3aO.webp 75bb84e283a21b8c7b64f88b4f445b7e50d5a8f7
 _astro/2026-10-09-wow-forever-wetlands-stone-guardian.D4u_uXEr_2kSawA.webp e162c7aea03725a52b10e9a3ac871d8b58f9f795
 _astro/2026-10-09-wow-forever-wetlands-stone-guardian.D4u_uXEr_ZIYtVc.webp e162c7aea03725a52b10e9a3ac871d8b58f9f795
 _astro/2026-10-09-wow-forever-your-adventure-begins.DGPvvZS6.jpg bb3209967fa0d9e2d8c109ffb3bf9c57cad1f021
@@ -1114,7 +1114,7 @@ _astro/2026-10-10-wow-forever-druid-torch-form-1.BwV24Ikf_Z29cK8M.webp 6bf7aca6d
 _astro/2026-10-10-wow-forever-druid-torch-form-2.CuiBjKSG_Z11ECmx.webp 48aa734bd40ceb70bf9b00c37731955c95a892cb
 _astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y.jpg 58d846ac3fb9559e398dae525fb46727d89b5235
 _astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y_1alfki.webp d4b70edd2df81278b444b4cd6ba555a5fc8eacbc
-_astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y_2wb6eX.webp a4248ce572b39d72bdb3b1efd1ccf59e002ca9a0
+_astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y_2wb6eX.webp 751891645a5329b1a7ccf5d239ddb1f6d14e4ba1
 _astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y_Z1Yz9TA.webp b84e36801723d0fb0b5e466a1e9bba080b454ea2
 _astro/2026-10-10-wow-forever-katherine-the-pure.DEonat4y_Z1wz9Jw.webp b84e36801723d0fb0b5e466a1e9bba080b454ea2
 _astro/2026-10-10-wow-forever-kirin-tor-portal.ChGs54Fy.jpg 0bfe8ba667b8a01855e720aafbf475423a0428da
@@ -1232,7 +1232,7 @@ _astro/2026-10-13-wow-forever-original-soundtrack.DY3-HTRz_ZB4dOJ.webp 2a787efc1
 _astro/2026-10-13-wow-forever-original-soundtrack.DY3-HTRz_mppRi.webp b8fef4233171af7fc55aa2df8ce8423798a9c5f4
 _astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5.jpg da0f60884544ca4a3838a5bbace84eede10631ae
 _astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5_1Bfxv2.webp 783ad780ab24d8cdc8552c59d887f4fd783b7afc
-_astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5_BYEX0.webp 23f0eb70383ec03454a651803782ec4f1d43d73d
+_astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5_BYEX0.webp 5c6dbcc2c36f142fe48d6f8cf3ee900bf6020543
 _astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5_Z1zsD0B.webp b27c4d1a46a68bf38f5743e94c3309622f497c8f
 _astro/2026-10-14-wow-forever-beta-maintenance.BH6kdNH5_Z2sc1CG.webp b27c4d1a46a68bf38f5743e94c3309622f497c8f
 _astro/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.DQutSpI6.jpg aff8468a2cd73ffde7981137ef6dccadbd426787
@@ -1255,7 +1255,7 @@ _astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_2ng6bN.webp dd
 _astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_Us0SA.webp 42c5eb7ed818ebbcf7d3fa91331e1ddcf89ed227
 _astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_Z1fdzVR.webp 45f6f4c7e9a4034fc69ddbd391991d9f8627e2c2
 _astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_Z1pwn85.webp ddf340c59568cf96704a1dba67df1b99597ba3e8
-_astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_ZA0OmY.webp 2a58cbaecc36458916c2d54c0158512e874b6891
+_astro/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.C0NkksZ1_ZA0OmY.webp 21b376aa8595cc5ccebeadff1916f3807f88a149
 _astro/2026-10-14-wow-forever-launch-dungeons.BZ0yH0f2.jpg 20968534783ea841c8b642b2f4e16c18f5e057b1
 _astro/2026-10-14-wow-forever-launch-dungeons.BZ0yH0f2_1iYjNO.webp 21c9eac6c542a6138880b04978904cf09537e199
 _astro/2026-10-14-wow-forever-launch-dungeons.BZ0yH0f2_5XQA.webp 21c9eac6c542a6138880b04978904cf09537e199
@@ -1719,7 +1719,7 @@ _astro/2026-10-23-wow-forever-beta-stats-header.B3qdN4_w_on7xg.webp 6345c0905f87
 _astro/2026-10-23-wow-forever-beta-stats-okra-clams-boars.CIrdNIGC_2elVOo.webp be038340a2782fb00de0a7cd189931fdedfcd21a
 _astro/2026-10-23-wow-forever-character-creation-skyborne.Xh24dCl5_hqFQ1.webp 3ee888ed40b3931927838858aa9f0dc98a873d27
 _astro/2026-10-23-wow-forever-dalaran-arcane-sentry.DS0G4kZh.jpg ea8e686d058b83053fb7f6c0a35dacc05f64167f
-_astro/2026-10-23-wow-forever-dalaran-arcane-sentry.DS0G4kZh_18O2Q0.webp 8d1e6472ea0f9dd56edd6fb546585df6b3f50e98
+_astro/2026-10-23-wow-forever-dalaran-arcane-sentry.DS0G4kZh_18O2Q0.webp 2f3489d349f89bcb0c86f997103420414262b307
 _astro/2026-10-23-wow-forever-dalaran-arcane-sentry.DS0G4kZh_ZgyzKF.webp 513c67aaa7c227231fa79ef27de4c2d65b6b484d
 _astro/2026-10-23-wow-forever-dalaran-arcane-sentry.DS0G4kZh_kvzwp.webp 513c67aaa7c227231fa79ef27de4c2d65b6b484d
 _astro/2026-10-23-wow-forever-dalaran-baroness-llana.DF09Up15_Z1SCUUd.webp faf7fb404d205ccf5ae674917c5e80ec88f7db55
@@ -1751,7 +1751,7 @@ _astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap.jpg 4e3d9f932fe83b0
 _astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_1R8oI5.webp 7f0a58759f73b818760d64b4b8bd87d293f5c1ee
 _astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_1h9Th1.webp 7f0a58759f73b818760d64b4b8bd87d293f5c1ee
 _astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_Z1SiusS.webp 75d10486c4f67ae74207040f59d0ab35ff1862dd
-_astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_l18ka.webp 3720b7a0e725ddd71c44f385dd14a2ee232ea2eb
+_astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_l18ka.webp c0d122709de40f9f295fe37997c5441d768147aa
 _astro/2026-10-23-wow-forever-podcast-will-continue.CFo8Rfap_nVoSs.webp 31957b791bee697d92a307473d9c6786140b9f18
 _astro/2026-10-23-wow-forever-portal-bael-modan.C_4AHLbz_Z1dafPm.webp c3dded5b49b779e2aff12edb93305debbdb4a71a
 _astro/2026-10-23-wow-forever-portal-farholde-keep.CCQYoXeR_2iFpP9.webp f07a03819880d7644615e161a8634cd13abb0e6e
@@ -1843,7 +1843,7 @@ _astro/2026-10-26-wow-forever-excavation-site-highland-horror.NN5rFoUM_Ecz1u.web
 _astro/2026-10-26-wow-forever-excavation-site-lost-dig-site.C2Jcgh7W_Z1Bqm8e.webp ce2ff979ff973ae8be3701e22da999a165f50887
 _astro/2026-10-26-wow-forever-excavation-site-thicket-lurkers.DQuMni13_18Qvat.webp 087ee7300ba8895a31205691adcd4fed197cb188
 _astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us.jpg 9ad60580833e94345404116b67b61e3659da9df9
-_astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us_Fixu.webp 473d13a2c8a028fe19201e42270aace92c8fb648
+_astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us_Fixu.webp 4f7ff95f5439f2f7f433f765b428ead5a5d2cbcc
 _astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us_Z1Dog68.webp a6cda716b5666bc1a8631c2ed7edb4b7b0fd359b
 _astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us_Z1Ihpxb.webp 9be679f1f9cc53d4fcaefa82f2840aa5ca5b6cd1
 _astro/2026-10-26-wow-forever-forever-open-etc-concert.Bbljg9Us_Z20YOTQ.webp 9be679f1f9cc53d4fcaefa82f2840aa5ca5b6cd1
@@ -1983,7 +1983,7 @@ _astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ.jpg 335b4dcb97e91
 _astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ_Z16UGeQ.webp fc2626060b8144fed9b9e3d3e2e100da17ae2ecc
 _astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ_Z2ls0Is.webp 24945bf85a53163cfcbde03477cfbf0b6f5021d3
 _astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ_ZAvETL.webp 24945bf85a53163cfcbde03477cfbf0b6f5021d3
-_astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ_ZalLwk.webp c8dad8dacc4bae530be576c85676965c2efd08e3
+_astro/2026-11-06-wow-forever-auction-deposit-8-hours.Db3A5StJ_ZalLwk.webp b38aef6ee6c5d023feb533b3f69e2cada0a03857
 _astro/2026-11-06-wow-forever-cloned-dalar-dawnweaver.-tVcSto9.jpg 50d8d647f83343c6753fc598bb88f37b0f61f395
 _astro/2026-11-06-wow-forever-cloned-dalar-dawnweaver.-tVcSto9_1rs0jG.webp 299725182ab1f3bd4e8d5fb0479e9f99682b832e
 _astro/2026-11-06-wow-forever-cloned-dalar-dawnweaver.-tVcSto9_U8qcT.webp e4eeb00e519eb9aacbf1e58621f036a437fb3ecb
@@ -2208,7 +2208,7 @@ _astro/stratholme-living-1.DAw5rdK2_29X9Fk.webp 7fa4b204acfbcd82e3fa2e5697809745
 _astro/stratholme-living-1.DAw5rdK2_Z1dKbyt.webp e9d01532fbb3efcb4998c9e3fa8ec5c187b899e1
 _astro/stratholme-living-1.DAw5rdK2_Z26coM4.webp 9884a52cc79ca7807644894d2c1e4ef3dae1129f
 _astro/stratholme-living-1.DAw5rdK2_Z2enGNz.webp c1812fe713e4ca1660940a89c14d3a5d4839979c
-_astro/stratholme-living-1.DAw5rdK2_rGlyx.webp 1968e161aba5c29810527e5992aec6d138a8bd1b
+_astro/stratholme-living-1.DAw5rdK2_rGlyx.webp 2252256c90f33ecc450253e81b1d9d759bfa464b
 _astro/stratholme-undead-1.BvljQDD2_Kco2D.webp 7d971af94062b01fb382dd70a4d953a8e222562d
 _astro/stratholme-undead-1.BvljQDD2_Wsahu.webp 18b05bd5565815472bb82a62d0eeee4889422851
 _astro/stratholme-undead-1.BvljQDD2_ZJ0ChD.webp c472928bfd605e2468e74829cdcc7759ae266443
@@ -2242,7 +2242,7 @@ _astro/zul-farrak-1.DNAOyFUC_Z1lSuXG.webp 70845bd1b0cf19f145a04b0d42af382cacf06a
 _astro/zul-farrak-1.DNAOyFUC_Z25Iwwx.webp 077f7cd8d8b953731332f7be51f4a3e8eedf2efd
 _astro/zul-farrak-1.DNAOyFUC_Z34GnD.webp a2f07e628fab762201282b83fc84caf9cfb72361
 _astro/zul-farrak-1.DNAOyFUC_ZFEWmW.webp 36df5774975c9e31b33a75a7ecd0c9e6c25e25ec
-_astro/zul-farrak-1.DNAOyFUC_fE6AH.webp 7bc28a67f3df711be0f4b6e45a82b07a4e9d4637
+_astro/zul-farrak-1.DNAOyFUC_fE6AH.webp fe70a66e52849f10ab66af9a7a8f688f0dbd178b
 guides/camping/basic-campfire.jpg b8e16ccc530d480a7dbbe414d657c2e7369cb1d2
 guides/camping/camp-chair.jpg 359fe211459e5c88c72e6256f64597c49c08c929
 guides/camping/camp-tent.jpg 9cb28c3b345f2fbd12b07893d1b927dd8f5f6e06
