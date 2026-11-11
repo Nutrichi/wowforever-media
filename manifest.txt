@@ -1447,6 +1447,7 @@ _astro/2026-10-20-wow-forever-continuing-your-journey.DFCmbCDp_Z163T2K.webp 1e5e
 _astro/2026-10-20-wow-forever-continuing-your-journey.DFCmbCDp_Z1ImxLP.webp da4c94432d66ef9144fdec27151409403c01e7b7
 _astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY.jpg bfb887544d42de1f3985293c7b5f81582877ba6b
 _astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY_1RRFpb.webp d97df90414f38d959fb11accb6a021427e668ae0
+_astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY_1utaFA.webp f15e55824f14e1bf74893316f648602765774fa9
 _astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY_2l3KLX.webp 2f958910e4dbdd0f59040e8df9622eb208d65ff1
 _astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY_Fx99x.webp 2dbaf305c846054978b5f8639db15fed2d4450c8
 _astro/2026-10-20-wow-forever-drowned-city-coast.D2pr4NTY_YQrsF.webp 110bbd925d4c563bce9b679f3c185911e6793f9b
@@ -2075,6 +2076,18 @@ _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_28tYga.webp 3ab951f2
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_Z18o2MF.webp 5c337927966ad30164cb1a8f371be23f49cb4e4c
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_Z1r3a4v.webp 226b18ed55c55b1fcabd0c69e6baf175dea6322d
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_ZbbKzk.webp 226b18ed55c55b1fcabd0c69e6baf175dea6322d
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW.jpg 247a155f734bedd450b65fde604727c4e02f7ab7
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW_FkdeH.webp cc83feb370f2d8ede18f3a125ac489caa5f0641d
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW_Z1oJ5Be.webp 64dca28ab55692d0d6914be745f9c9aca8f8d54d
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW_Z40H7U.webp ea5e41106afa44e50fa40320e2c9ebda7d0d8c28
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW_ZGTULp.webp ea5e41106afa44e50fa40320e2c9ebda7d0d8c28
+_astro/2026-11-11-wow-forever-desolace-centaur-ruins.SsrSp4OW_ZLvwQa.webp 887125ed0acdff64fbc837d7612ba062f1846be8
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH.jpg bfd46219a7313006338094478859d4dbddb73472
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH_1FYHGV.webp 21244abb5eb361c71c36e76b16ce939f5cd280e7
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH_1luzxW.webp 36444decd12ffbb72f97e00473f59e3b59f34678
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH_2qhrDk.webp be446ef7843f47294a19f358ff7e63d61de9892a
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH_Z15tcYu.webp 21244abb5eb361c71c36e76b16ce939f5cd280e7
+_astro/2026-11-11-wow-forever-drowned-city-stairs.BgQqGrKH_cs7L9.webp bf440161f2e9410a571cc5c55ca8cb3e6d958512
 _astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30.jpg 9f9a6784b1f7ae53451129c1ca88577320b6fe72
 _astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_16STnA.webp 364fb17ed24a371e36c976c0a77da6cf4e496c33
 _astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_1MIkJy.webp 79557c28ecdcd08da3a3bc4a6b11633d10b6449b
@@ -3889,6 +3902,7 @@ wh/inv_elemental_primal_air.jpg 32cca6161fb435f216005cb15e017e2e6b2a19bd
 wh/inv_elemental_primal_earth.jpg 5d85e26569e23817a53365e1fd730bc4c804ef3e
 wh/inv_elemental_primal_fire.jpg e8442b8aa83556c8a2991ad0782304bad6e6e1b1
 wh/inv_elemental_primal_shadow.jpg 2e6ff82d3ef1fa14e1ab16f2db69bac9717923c0
+wh/inv_elemental_primal_water.jpg 36430b77df068228c1c2300bc8cbcf3d9689a31c
 wh/inv_elemental_spiritofharmony_2.jpg 34630ab37f2bafbc958618ce23883ed0f759b3f3
 wh/inv_emberweavebandage2.jpg 48dd0a6eb307f752076c8f902c516a911339926a
 wh/inv_enchant_abysscrystal.jpg 07d14b06aec73523274d4056231bc0f9e0f425fd
@@ -7194,6 +7208,7 @@ wh/trade_archaeology_staffofsorcerer_than-thaurissan.jpg 67966f39c8ab66acd61ed53
 wh/trade_archaeology_troll_tablet.jpg 11081a5ca364aae34cc10ec9c6a8d15728afb35a
 wh/trade_archaeology_troll_voodoodoll.jpg 7e98b84b7f7458480569f7866bada5034c21792c
 wh/trade_archaeology_tyrandesfavoritedoll.jpg 6ba204be09dc6fe6ba197b52e5c42f1784301dc0
+wh/trade_archaeology_vrykul_runestick.jpg 0d56baec64c2c724e5c0dd4990b06ef4299c2bbd
 wh/trade_blacksmithing.jpg 0d6f00d58bddcecded933ed7ace81b6b8afb5498
 wh/trade_brewpoison.jpg 6a9689bf3ac3aa2106bfe812a584b13db8d0bb50
 wh/trade_enchanting_greatermysteriousessence.jpg 467d133c99a7acdd3b82d00690bce5056b1a02d2
