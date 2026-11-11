@@ -441,6 +441,7 @@ _astro/2026-09-29-wow-forever-ruins-of-lordaeron-statue-of-the-abandoned.lh-BKEF
 _astro/2026-09-29-wow-forever-ruins-of-lordaeron-window-to-bjork.BiTWYPoW_t0ODF.webp 6bede736279a01e2468f5206c648f3d72953e4dd
 _astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv.jpg efaec10e59fee9f77a893df1b5556b83d0dbbf6b
 _astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv_11ihvy.webp d2bd29a5550954c41dd003980b3bf4c1f803f313
+_astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv_1Ex6XW.webp 2c7e73ab1fd538eab27a65514e558561270d493c
 _astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv_N8Pue.webp 4d620f7b78e5e50ba3d6f385a096bfa625c8036f
 _astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv_PRH4k.webp c5890cd04f39118b10171b024279975eb13c8faa
 _astro/2026-09-30-wow-forever-druid-talent-trees.DrFzA-Jv_Z1IPpJq.webp 6b69c46e1641f98a8578807455a7559ad18e6c9d
@@ -1324,6 +1325,7 @@ _astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_23WwAN.webp 63025ee
 _astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_UiyVf.webp 26575a6086b84bfc1d0ddd6dca7f77eeea42e823
 _astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_Z19d0bb.webp e5b188fbc95320d8ffad49d91392401af103a971
 _astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_ZTaJ4U.webp 97145729d3d0d5e6958c2ee00bcae5079ae3425c
+_astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_ZdtN4V.webp a971813a5df06b52e6d67cd526079501268c290d
 _astro/2026-10-16-wow-forever-troll-warlock-casting.CMncGq-A_ZeoaqV.webp 9c89ed41b5426abca42128ecefafdb22402e8523
 _astro/2026-10-17-wow-forever-blossoming-ancient.COhoG9Hb.jpg b13f2dfa2ceaa725a9d4d408363973db3a2f52e8
 _astro/2026-10-17-wow-forever-blossoming-ancient.COhoG9Hb_15Y2vS.webp 4a1bfdc35793d39d36a96ff7cfa4c939d16a8568
@@ -1406,6 +1408,7 @@ _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_1DXpEb.webp d9c
 _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_1X2BQJ.webp b71a9f08559398e4bbe997791fb86cc3beb457e3
 _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_EUyjY.webp 1e4a6c40aa49ec84956e40a8dfcee239c01cfcef
 _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_Iij0I.webp 0d31602ee7f4a4baef29777b7466e6e0b2e41d48
+_astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_JQcce.webp 36dcc8b7f207598ba1c10b571b5ec58488d9d6b2
 _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_Z1HKJEp.webp b63ee843880999e3e49d54a76e0be06fc44ac688
 _astro/2026-10-19-wow-forever-night-elf-hunter-and-wolf.4zt5bFR7_ZvqYPi.webp 4633731d1eb60229c28fc175dbeba6196b5c5980
 _astro/2026-10-19-wow-forever-stormwind-thunderstorm.Dz-l74Au.jpg 58f83a31e1ba5df591a606190e2503c56baadb53
@@ -2072,6 +2075,18 @@ _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_28tYga.webp 3ab951f2
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_Z18o2MF.webp 5c337927966ad30164cb1a8f371be23f49cb4e4c
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_Z1r3a4v.webp 226b18ed55c55b1fcabd0c69e6baf175dea6322d
 _astro/2026-11-10-wow-forever-undead-paladin-mount.B2LVNdtw_ZbbKzk.webp 226b18ed55c55b1fcabd0c69e6baf175dea6322d
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30.jpg 9f9a6784b1f7ae53451129c1ca88577320b6fe72
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_16STnA.webp 364fb17ed24a371e36c976c0a77da6cf4e496c33
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_1MIkJy.webp 79557c28ecdcd08da3a3bc4a6b11633d10b6449b
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_2sIKig.webp 3f1a68e83f4ad175a44a18c22b461d89f43a543a
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_Z1oJDSu.webp 79557c28ecdcd08da3a3bc4a6b11633d10b6449b
+_astro/2026-11-11-wow-forever-orc-camp-at-sunset.6bhxKL30_ZHIVeX.webp 49bb84f75b122f7978a15640abaeae253fd1288a
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7.jpg 7dd16c73579e4e33cf059ee130ca48c080d1113e
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_1JmPwD.webp 3ee91d6e9cff3166b95c3698651a5d5438e61369
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_2uasEn.webp ab81cf86b51f7d3f262370967801e35ad09e4987
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_Z1j0Uhr.webp eb9ff135b1dd6091994f488bd311b45c45f0930b
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_Z2fQqEN.webp 636b42041efbded7744c278ddda71f4fbe878513
+_astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_qMtbA.webp eb9ff135b1dd6091994f488bd311b45c45f0930b
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
