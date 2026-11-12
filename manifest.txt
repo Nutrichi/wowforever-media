@@ -404,6 +404,9 @@ _astro/2026-09-29-wow-forever-lakeshire-docks.Cvouj94x_2dFhH3.webp 57b0ff39e1402
 _astro/2026-09-29-wow-forever-lakeshire-docks.Cvouj94x_amhOE.webp 10e94ec9297d14c033cdf4a372c0ab8670d6ff22
 _astro/2026-09-29-wow-forever-lakeshire-docks.Cvouj94x_fw6Eb.webp ea436966500ae7c6332f356c0149f9a0e507a349
 _astro/2026-09-29-wow-forever-murloc-form.B3fjwvWx_GHOXk.webp 34adf72c8825bd56c6c7897814a440f77f0506e5
+_astro/2026-09-29-wow-forever-ogre-form.CN2ZcpOF.jpg 4492d6913cb706a3a1358c8aaba6999161c095b6
+_astro/2026-09-29-wow-forever-ogre-form.CN2ZcpOF_1r7DrI.webp 30553bf99672d59d155de6acabf6d09d54f6cdc7
+_astro/2026-09-29-wow-forever-ogre-form.CN2ZcpOF_Z2nYGff.webp cfce513d2e5b9d95105dac2a869ee8c187b7c441
 _astro/2026-09-29-wow-forever-ogre-form.CN2ZcpOF_ZgG1om.webp 30553bf99672d59d155de6acabf6d09d54f6cdc7
 _astro/2026-09-29-wow-forever-pax-aus-keynote-speakers.DaJMGwOv.jpg 7eab989bf06f5afd0516d8b1c0f9e3060afd0086
 _astro/2026-09-29-wow-forever-pax-aus-keynote-speakers.DaJMGwOv_1mrx0a.webp 855a86c1595db1104efd3511316ba3d9fdc18cea
@@ -741,7 +744,12 @@ _astro/2026-10-04-wow-forever-group-fights-in-stratholme.j4dUOOeE_Z226K6X.webp a
 _astro/2026-10-04-wow-forever-group-fights-in-stratholme.j4dUOOeE_ZuD227.webp 1fd7ce8d011b7022915a5bef651b37b019ef0d2d
 _astro/2026-10-04-wow-forever-group-invitation-declined.DpZAjoNz_1GRgUv.webp e1fe3342964f52aa49686360ea94389a3aa8f105
 _astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW.jpg 12796a825775b05215945bdcf967ed848d655331
+_astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_10GG8j.webp 7d6d2f315f147eb365edf0baa02034eb7c911451
+_astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_1TQBu2.webp 2c9f12c8241e04bb4cbacec45e6f9cf3f1bb1610
+_astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_Z1Hwr1G.webp a93de95c724fddd60e31d486c682a063551a7737
+_astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_Z1R76d3.webp 9bc761b9129906bcd424699d76c63bfad71dda15
 _astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_Z1bB2kj.webp 04caf00abadcaa58926492c7d6df5d7db253044f
+_astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_ZfNYlq.webp 1f379b3e39e90e8f2b544b30e5bd88510e988bc2
 _astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_ZvL1Vx.webp 097c44c22a7b6de0dbafd19d75d4014cd1e1197f
 _astro/2026-10-04-wow-forever-leveling-alone-in-durotar.CG_gr1CW_wCwKQ.webp a93de95c724fddd60e31d486c682a063551a7737
 _astro/2026-10-04-wow-forever-players-in-a-dwarven-forge.DlKD-roH.jpg 2caf42c5068879e5df000adb870416f00ef7f261
@@ -1401,6 +1409,9 @@ _astro/2026-10-19-wow-forever-journey-vendor-step.xsLNUVnf_19nD6O.webp ae1afd7db
 _astro/2026-10-19-wow-forever-journey-vendor-step.xsLNUVnf_1fzUyI.webp edd70581596939961331a512a919d454c937bc08
 _astro/2026-10-19-wow-forever-journey-vendor-step.xsLNUVnf_2uoNnK.webp e2bb9793b2f528cd4db55eaf32b77caba8c66d38
 _astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ.jpg d634025847d656e20ced2badc68c902a30eb0e14
+_astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_15YJLN.webp 60b72ba2a3655a015e1a3fde19ff13a821c1e3aa
+_astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_1APQXt.webp 94cc9ed202169a8c736874ebf62cc7318263e2ef
+_astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_29YDdQ.webp 49a662a56f2a9ec3282173d973172192f9ad3539
 _astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_2gsBR7.webp 5e9ac81a9e68e22169ceae44d46c1f165599756f
 _astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_GLmay.webp 60b72ba2a3655a015e1a3fde19ff13a821c1e3aa
 _astro/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.XrLdSaXJ_Z1NngWg.webp aad40c1dcead5a59941a2ba40b5f1cd159cdc4dd
@@ -2116,6 +2127,11 @@ _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_2gjW4I.webp e7237179e
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_Z1L5SCQ.webp 671ba8ff2952341c4875bf622bf52034641846b6
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_ZiBHY2.webp b30518c671b18944147cadf97826a9d23febeb8b
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_zEhMC.webp d317d4bcad603ced3f927d446404536749c7dd22
+_astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1.jpg 483842053c75143c7533545ef42e5ee192fd85c4
+_astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1_17p0UA.webp 036a8fe7d676cbd4b900657db1c10db490c895ad
+_astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1_Z1D03D1.webp 5922ed104ead2dd04becd9196036ed7c30dcf800
+_astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1_ZUkuV5.webp 036a8fe7d676cbd4b900657db1c10db490c895ad
+_astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1_rnqmI.webp 2c89d3e15b43c3ecd3cb168b4a8fa41662bcee7e
 _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK.jpg 5767f36a2541c7f92a6c7faf15b5a79ad99e5077
 _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK_1DKJzv.webp f035ca6e19c88b82296ceff9bb57488c71c250ed
 _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK_1IiFHG.webp 54b9d03f2cc416d9db91347775c3f147310d5bd1
