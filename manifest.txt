@@ -645,6 +645,7 @@ _astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_1Pb7o6.webp 8826
 _astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_1TYEt.webp 663dfbcb521d0722da54a25a8b23b43580899d20
 _astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_2np3lu.webp e5bcdb415bed4788679254fa9a1b83bdd70e52fc
 _astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_Z2joG3P.webp 77a49505d9fc5e08a6e386131e64e864d92f5857
+_astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_Z2nVCc1.webp 170b9e7909d36077b1a78a9b21c4958b0429a6a9
 _astro/2026-10-03-wow-forever-ragefire-chasm-taragaman.CvC15-lV_ZbrXYv.webp 470eb8f7d3ba5fb9295176a9858d6ed6060c84cb
 _astro/2026-10-03-wow-forever-razorfen-downs-amnennar.Dw2PVJCJ_ZaJzE4.webp 01dde861557cb78c96457c3b926384f0b8e1c30c
 _astro/2026-10-03-wow-forever-razorfen-downs-entrance.Cti5i1G-.jpg 1892ad868d354a1d071986511675fab78fb8f9c6
@@ -711,6 +712,7 @@ _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ.jpg 7ffe8a10cf08
 _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_4X5cF.webp 7ac214e48f39edaca54c4b3335c941a7e93bc4f0
 _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_KOETm.webp 0106b81fc9365f4fb212298ab2d896705c02552d
 _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_Z22XBQE.webp a8bacb578487799f4b804beaaa59a89293450785
+_astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_Z27vxYP.webp 215edc4c01d78d8aaec003080b3b749bfe84e5b3
 _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_Z2qm1gg.webp c3e50be917bb266020499f33987e24fa9869b5a6
 _astro/2026-10-03-wow-forever-wailing-caverns-entrance.CxOgu4fJ_ZCtVCn.webp 6a4616865f60942edf5155902a7ff42813b7f76a
 _astro/2026-10-03-wow-forever-wailing-caverns-kresh.BGlPLcD__6gaF6.webp 76a18b5da0471040d9e01b1c65b946637a994714
@@ -2229,6 +2231,9 @@ _astro/gnomeregan-3.DwEoyOuW_Z1tNgSq.webp 0390e8d53a5a5f2fe91184975ea927d1b23a3a
 _astro/gnomeregan-4.BcpR4QcD_1XtqeO.webp 5bbc2fe701f5340fc3889bdd3df1fa8784de06e2
 _astro/gnomeregan-4.BcpR4QcD_222ox3.webp 37e7565b3d6aca57aeaaf2d00dc8dc9da4e9d8db
 _astro/gnomeregan-4.BcpR4QcD_Zl6ujQ.webp 11e85fd46a2d2cd3f6d93a979c0ee2ab5a02b699
+_astro/kroldok-stronghold-1.DtbiXEuf_Z16dsrY.webp bd1ee1aedcf36ae0f0da62ffe3fb4cfe6e53dab3
+_astro/kroldok-stronghold-1.DtbiXEuf_Z1f5jln.webp cc6aba7a368c783e0e192a8457e3a35c588ccc98
+_astro/kroldok-stronghold-1.DtbiXEuf_ZuK6yN.webp 53961380ed999a93ef0ab2eeaabf685cb5fa39d4
 _astro/lower-blackrock-spire-1.C4SDIVuN_13T4jN.webp e3898fc194dee51bfe5a8456573f36a4b1ae2cf7
 _astro/lower-blackrock-spire-1.C4SDIVuN_YpLpE.webp 68d981dae146c000cb35576282a27cc19ffd0e55
 _astro/lower-blackrock-spire-1.C4SDIVuN_ZzQr5C.webp e90495c0e802f6e8e8634c82aca2ef39e7bc6036
