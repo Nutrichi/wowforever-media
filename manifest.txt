@@ -1441,8 +1441,11 @@ _astro/2026-10-19-wow-forever-the-riverglades.kCho3Hgs_ZRQDWK.webp 977fa108b00bf
 _astro/2026-10-19-wow-forever-the-riverglades.kCho3Hgs_ZRfOX6.webp 1c8a08846f8ae1f7a621f02176c716b2acd4ee97
 _astro/2026-10-19-wow-forever-the-riverglades.kCho3Hgs_qCuY8.webp b910096057038279ef3095e00607b470382db4b7
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ.jpg 492c5345e5ed8c131e19ad09f0616a0ae3fe9f87
+_astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_1CgHCY.webp 0b0bbc39ef204b5a9dbd92bb4ce43234f0064ff4
+_astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_298FEK.webp dca80b2b01fd05b79b2f9acd11f2a4d2fc7e2a15
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_3KbE1.webp 358fd195f47dc46b6e7838ac5a48b8ccca59cb8f
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_Z2sXk3k.webp 06070fdc7aa112ed27f8ce3258d433faebe9e83d
+_astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_ZPEX8r.webp b18acd7467910aba6606f09da3511f6d8201d82d
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_ZTD6Q4.webp c16a442eb9e55f578b1226093df9d1819526c1a9
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_Zkec4B.webp 089918546a36272064cb566b50f20d3df7b25c3f
 _astro/2026-10-20-wow-forever-alcaz-prison-naga.BEGq-YnJ_ZpsNdG.webp 0b0bbc39ef204b5a9dbd92bb4ce43234f0064ff4
@@ -2146,6 +2149,11 @@ _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK_Z1ARxlR.webp cce
 _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK_Z1dVK1U.webp 67c30e5af33155024b7934d2a4ebb6f0eeaf6703
 _astro/2026-11-12-wow-forever-portal-trainer-stormwind.D7PKqLsK_Z25rm2v.webp 01cf28eb3a22193926bd8ce9881efaa43ec5e209
 _astro/2026-11-12-wow-forever-portal-trainer-undercity.nhF6SsEr_1ypaIo.webp 9820f5a5c14b14d246da67504b7537b94adb7e4c
+_astro/2026-11-13-wow-forever-alcaz-disguise-after.BC7K2RiK_2aJBDy.webp 258f1942af01dda8de67e57c36505a8b16c57f6f
+_astro/2026-11-13-wow-forever-alcaz-disguise-before.CGiYegY0_eDgcT.webp d35f1ff53fd04ed94b577ce28f5a92719d2033b8
+_astro/2026-11-13-wow-forever-cost-of-honor.Blz4bN0f.jpg dce984ba0e50046c32cfc9bf25a8380f2980ae03
+_astro/2026-11-13-wow-forever-stormwind-gate.Cqz6GxhP.jpg bef44ebe2bfdb3a566fc829ddba951156e0030aa
+_astro/2026-11-13-wow-forever-the-questioner.BwQMhoeU_2lYWj1.webp 110a42418da0ec49699e8a98891a52bc2808b0e6
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -3124,6 +3132,7 @@ wh/ability_whirlwind.jpg 170897af10c99f54f552731be6ff7f95fdbc85fb
 wh/achievement_bg_killflagcarriers_grabflag_capit.jpg 360c13e7fd4b2a77cb8e69f2f7d71db713551615
 wh/achievement_bg_killingblow_startingrock.jpg 47247f8308b4fd38ebbce1e2410ee00007b4009a
 wh/achievement_bg_winwsg.jpg f64acf0b2c00a662bde645f31cc715215cbf4652
+wh/achievement_boss_edwinvancleef.jpg b7ea1a1174aedd73a5380087c7c46b446b475148
 wh/achievement_boss_fourhorsemen.jpg d48331a10a5a0ea7211c97f4b0bd0d63f476bebf
 wh/achievement_cooking_masteroftheoven.jpg 0455f2de5c6adfd3c5591245cee0571e8e6bbffb
 wh/achievement_dungeon_ulduar77_25man.jpg 8ed04ae2603ef0a2f375ecc0b030fac4a004f8c7
@@ -4888,6 +4897,7 @@ wh/inv_misc_ammo_gunpowder_07.jpg d5d0a5e5bdf52b159c95935866297737cb936d7c
 wh/inv_misc_archaeology_trollgolem.jpg 55c2e7b3990874578418f6691b1b4da441c1bd75
 wh/inv_misc_armorkit_01.jpg ad36ec24e08bad4063a8a51edf7bc1c06935085b
 wh/inv_misc_armorkit_02.jpg c07c84b0338793935529e26019f42e1f4761a01f
+wh/inv_misc_armorkit_04.jpg 4abebbe71f19ee267504959d6d482de9ed326ae4
 wh/inv_misc_armorkit_05.jpg 0af79ab8d395f210d9ca2c9b3123a527bb2b692c
 wh/inv_misc_armorkit_06.jpg f54f0bf6358f6e836402051d410a1748b5781103
 wh/inv_misc_armorkit_07.jpg 0ecc4ff9eced3b7ce64f49d30ecbff4714067f07
@@ -5340,6 +5350,7 @@ wh/inv_misc_head_dragon_bronze.jpg 125c0a9dac1e3481a9affe835fa9be7a14ddd2e6
 wh/inv_misc_head_dragon_green.jpg cad73752e134d85bd71176a0dcd2465b958a9418
 wh/inv_misc_head_dwarf_01.jpg 1542d8777cb315e76b1eb5dba8a57bad9b870fa3
 wh/inv_misc_head_human_01.jpg 638a59f683fd218135f9117fc559064f584823af
+wh/inv_misc_head_orc_01.jpg 30bb01d99f3eaf9f910b89d2a5765ae7f53ed90d
 wh/inv_misc_head_quillboar_01.jpg fdde47574f675268a2aee377fcc40ef75365b7b4
 wh/inv_misc_head_troll_01.jpg 8f504535df6179901d899f49b04cd3bfa6c69399
 wh/inv_misc_herb_01.jpg 596b1acc5ae6f83166ba540375cbcdd796bf78a1
