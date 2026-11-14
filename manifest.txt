@@ -1831,6 +1831,7 @@ _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW.jpg db0b77a4683
 _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_1MTJXi.webp fe92666a5993c9bdac8a7b9402f88c91cf10870f
 _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_1tWOIx.webp de49e7686feec950c854b6a846f1e46c55b8f8ea
 _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_OsK2K.webp ee255c24414c9ef6c664a2044cfd3e3926699f00
+_astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_Z1TSBhQ.webp a06c64b383bc6762d04d22585c9887bbce21e40b
 _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_Z5iVQt.webp 8f1c89142d96248a56134e8e1a73d52b4dcd598a
 _astro/2026-10-24-wow-forever-retribution-paladin-build.NBIDfRtW_aNpfO.webp a9193be769876494bb96f8c367350f4df21b86f2
 _astro/2026-10-24-wow-forever-shaman-elemental-build.BNwBFU5t.jpg ad80696d77a67ae1dbb06071a483d5b9dabf6d3a
@@ -1840,6 +1841,7 @@ _astro/2026-10-24-wow-forever-shaman-enhancement-build.BQPXVrwE_Z1t91GP.webp 9e1
 _astro/2026-10-24-wow-forever-shaman-enhancement-build.BQPXVrwE_Z1tNSbi.webp f89291260787d54633ac518f5928691f5a7a9735
 _astro/2026-10-24-wow-forever-shaman-enhancement-build.BQPXVrwE_ZCa4sf.webp f88cf26f9e4556b646accecad61a1f1dcdeaece9
 _astro/2026-10-24-wow-forever-shaman-enhancement-build.BQPXVrwE_ZLEpd7.webp 932586b2b1e0996339314319145e51d385d512d1
+_astro/2026-10-24-wow-forever-shaman-enhancement-build.BQPXVrwE_ZbtvkE.webp 6252d8cb3a7830b869b47e061aea880677957309
 _astro/2026-10-24-wow-forever-shaman-restoration-build.BmTWoA5u.jpg f952fc8bc14565f0874b94f2413ed31ffb150a2d
 _astro/2026-10-24-wow-forever-shaman-restoration-build.BmTWoA5u_1W4L8p.webp cca61b5c4297678ff565b33bf4e8748dce7dae70
 _astro/2026-10-24-wow-forever-shaman-restoration-build.BmTWoA5u_1qn57V.webp 7a8bb3188e5f5735cb758d7d4895f0233d0597dd
@@ -2171,6 +2173,18 @@ _astro/2026-11-13-wow-forever-stormwind-gate.Cqz6GxhP_Z13TReP.webp e2bc28e05bdfd
 _astro/2026-11-13-wow-forever-stormwind-gate.Cqz6GxhP_Z2mwrVs.webp 09a1e4457585c1ad82a43174e19434cb29002f5a
 _astro/2026-11-13-wow-forever-stormwind-gate.Cqz6GxhP_Z2n1Wmn.webp c33e942c1bde21bef86ef44ed4340e89e747b3f1
 _astro/2026-11-13-wow-forever-the-questioner.BwQMhoeU_2lYWj1.webp 110a42418da0ec49699e8a98891a52bc2808b0e6
+_astro/2026-11-14-wow-forever-riverglades-boat-steamwheedle-port.Po9TCRcI_1cNksU.webp b73dc3cdcf9958c9d90e9ea8e838e05d2449cd84
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V.jpg 2181456229f6abd0784d193dfd8d1a02d67e5792
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_1Mj0S7.webp 59e0dbfb455756dfd16cbad21c7808221b5fa07f
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_1teNFy.webp b10c3bf2d4d873f4d52bdb58b33e97755d05da7d
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_HzwDK.webp c37f356558af8b938e9cbce44617bf573caa805e
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_Phnh0.webp 34840ca1585f14fd0aecc91903b03f942b210f30
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_Z1SulD2.webp fb6c099087fdd702eda896dcc7666bde9d104af1
+_astro/2026-11-14-wow-forever-riverglades-farholde-keep.Cmy5CR9V_z7AdB.webp 419e58cb521ade1ae97840befc8b0d66845a84f6
+_astro/2026-11-14-wow-forever-riverglades-kroldok-entrance.BZJ0oNbr_Z1ko3hR.webp 4d0ca121f10edcc1b6fff54898d512f32f966e7d
+_astro/2026-11-14-wow-forever-riverglades-map.CeJbmgIX_ahYz9.webp 6bad295f00f412f11bb45d21de365649455215da
+_astro/2026-11-14-wow-forever-riverglades-powderfuse-port.Rgn9dkh9_Z2cC36B.webp 9d255378856796b01ca8c647db9443e2faa5912e
+_astro/2026-11-14-wow-forever-riverglades-rogmar.CXSEDU0x_1I3DJ4.webp 15874787b6d87f00a022d55e5a3bd1a0ad743b1c
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -6423,6 +6437,7 @@ wh/inv_staff_18.jpg 73bacb6be8d35a2bb6ae66ac4799b1e7232a15bf
 wh/inv_staff_19.jpg 52b1adc3f72400e3988ef06e0f6ba34aa90c5f8a
 wh/inv_staff_20.jpg f5ae9bff318c4fd9407ba1a637c67a71547712a5
 wh/inv_staff_21.jpg 12e4e8fbd429d7b7ac02788e7f574f1118728888
+wh/inv_staff_22.jpg 313b75d445099be6f181de5c4301713257a3cb3b
 wh/inv_staff_25.jpg f208348250d7d9eee21b6bb5c7f417fe10af41b7
 wh/inv_staff_27.jpg 05d8902509196d487757a0d8d49c4ff689cabb53
 wh/inv_staff_28.jpg e765e742a1ff70614ec80c22823933c33ab7fd73
