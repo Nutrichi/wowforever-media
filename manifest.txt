@@ -2204,6 +2204,13 @@ _astro/2026-11-14-wow-forever-riverglades-kroldok-entrance.BZJ0oNbr_Z1ko3hR.webp
 _astro/2026-11-14-wow-forever-riverglades-map.CeJbmgIX_ahYz9.webp 6bad295f00f412f11bb45d21de365649455215da
 _astro/2026-11-14-wow-forever-riverglades-powderfuse-port.Rgn9dkh9_Z2cC36B.webp 9d255378856796b01ca8c647db9443e2faa5912e
 _astro/2026-11-14-wow-forever-riverglades-rogmar.CXSEDU0x_1I3DJ4.webp 15874787b6d87f00a022d55e5a3bd1a0ad743b1c
+_astro/2026-11-15-wow-forever-bag-bar.oO0VHKIf.jpg 5b21e1291d75e099445d336cb7eb276c3c8fd97f
+_astro/2026-11-15-wow-forever-bag-bar.oO0VHKIf_2Q9Pr.webp 757f1a0e77bf195203df298a53c3d51ed2c511c8
+_astro/2026-11-15-wow-forever-bag-bar.oO0VHKIf_2l6m0p.webp 142ce266a6db3541b6216326c6574904fb0dded3
+_astro/2026-11-15-wow-forever-bag-bar.oO0VHKIf_PD860.webp 095766a7fedb953b9ce1b175d8480c0c80a9897a
+_astro/2026-11-15-wow-forever-bag-bar.oO0VHKIf_Z2iB1oA.webp 142ce266a6db3541b6216326c6574904fb0dded3
+_astro/2026-11-15-wow-forever-premos-uniform.BkDhnAx-.jpg 25886248ca31e59ec40fa5bb87f1430303c15f3a
+_astro/2026-11-15-wow-forever-travelers-sign.Bprhfi0x.jpg e876f90449f9e805a1fc9fc96c71a0c013cc3544
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -3607,6 +3614,7 @@ wh/inv_bow_2h_crossbow_cataclysm_b_02.jpg d93d43c80543686eab5de25723076b7908e15a
 wh/inv_bow_2h_crossbow_grimbatolraid_d_01.jpg 272dc2989515732de5f304d2edd5e1b45cf6f85d
 wh/inv_bow_2h_crossbow_thunderisleraid_d_01.jpg cba87106bde86b010f363445c83f2880e3813aa2
 wh/inv_box_01.jpg 4063994008212cf83028ce3d34e60ce06e594e7d
+wh/inv_box_02.jpg 85155363dc4bce6c2f501717bc98cefa7a23dfbd
 wh/inv_box_03.jpg 12fee55f8acb25a1594db881dafff78e41b02bbe
 wh/inv_box_04.jpg 6ede5c6c5d6ebea998ec2ab9aea6b274c64feecc
 wh/inv_box_birdcage_01.jpg a4af6037b2442d99aa70c013e1693af2a07d4be1
@@ -4981,6 +4989,7 @@ wh/inv_misc_bag_09.jpg 9ffb510f4182555aec935004d9833900c0c5ee16
 wh/inv_misc_bag_09_black.jpg cf38b32ed3b0fd102e75f744b44106cd0ef34df1
 wh/inv_misc_bag_10.jpg c29f3d45809ce7041918642cf6a3042ace9a2595
 wh/inv_misc_bag_10_black.jpg e57cb58038e1accb3c19b0e2a55677190c502c3e
+wh/inv_misc_bag_10_blue.jpg 1e688c3d5e5df765d4c3e338e013f95170710ae9
 wh/inv_misc_bag_10_green.jpg 518902fc858245e945289097a9d857bc059020ab
 wh/inv_misc_bag_10_red.jpg 2f2f5dc6798269415b9794db1855093d72cf517b
 wh/inv_misc_bag_11.jpg 88b91fef1ae1b497e062c0ea75f15f8dac06ee81
@@ -4992,6 +5001,7 @@ wh/inv_misc_bag_18.jpg acaeed59096666f86fe4085be4d196259a70c572
 wh/inv_misc_bag_19.jpg 1aa50b3f2d9cb9ed393b84510a0d4a9b6817dd4d
 wh/inv_misc_bag_20.jpg 191d89703c5c234aa8db9707e4a638d3e8c809b9
 wh/inv_misc_bag_21.jpg a96e5ba929ee8a8aa2f1e8eb1f9bb4ab4d944b96
+wh/inv_misc_bag_22.jpg 73ec6498bca7280040e80a43385cca130689a8c2
 wh/inv_misc_bag_26_spellfire.jpg 59b31aea191cae245fd825583d1e042cb8c0e916
 wh/inv_misc_bag_30.jpg 0909bbe134fe419f8428d025cfd7abc81bdfb2d3
 wh/inv_misc_bag_31.jpg 1b9ca1e46a1599d3e3143cb83bd62fc9666c08e3
