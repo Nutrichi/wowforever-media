@@ -2226,6 +2226,13 @@ _astro/2026-11-16-wow-forever-forever-101-video.DCZ6OZrA_1TFDqb.webp bb104058542
 _astro/2026-11-16-wow-forever-forever-101-video.DCZ6OZrA_2r17pk.webp b3608a361961dd54344ba14f534c6746b21f4bde
 _astro/2026-11-16-wow-forever-forever-101-video.DCZ6OZrA_Z83Rqu.webp bb104058542380350fb71b42df63edc485310557
 _astro/2026-11-16-wow-forever-forever-101-video.DCZ6OZrA_lCCoA.webp a858fcc11e09ac421a1ebf342d602a8ffd306ace
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ.jpg dfb55cb75d82cc6b57a7fcca5d9142ac9bd71e13
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_1klJ88.webp 24f1efd13c5c1cf38bb1ab1a691dc9a719be53ce
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_1vJIyJ.webp 7fec6fb4404d017b41efe62559856ce96e30bf3a
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_28pKk2.webp 7fec6fb4404d017b41efe62559856ce96e30bf3a
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Z143ej1.webp c5b62a0f1594dc35f49e18430053e3506ba358f9
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Z1t6Lx.webp ea59a4a95683c6ef6ae99fb0456ff0e7a3ce488a
+_astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Zn2vEu.webp e325305a11dd35409e1a4910361fa564171af191
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -4033,6 +4040,7 @@ wh/inv_elemental_mote_mana.jpg ca62388c77d51763c27c17811d45a5409bcc2697
 wh/inv_elemental_primal_air.jpg 32cca6161fb435f216005cb15e017e2e6b2a19bd
 wh/inv_elemental_primal_earth.jpg 5d85e26569e23817a53365e1fd730bc4c804ef3e
 wh/inv_elemental_primal_fire.jpg e8442b8aa83556c8a2991ad0782304bad6e6e1b1
+wh/inv_elemental_primal_mana.jpg 6809819505eae03dee866ca7687e2ffb34cd1202
 wh/inv_elemental_primal_shadow.jpg 2e6ff82d3ef1fa14e1ab16f2db69bac9717923c0
 wh/inv_elemental_primal_water.jpg 36430b77df068228c1c2300bc8cbcf3d9689a31c
 wh/inv_elemental_spiritofharmony_2.jpg 34630ab37f2bafbc958618ce23883ed0f759b3f3
