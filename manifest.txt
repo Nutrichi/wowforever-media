@@ -625,10 +625,15 @@ _astro/2026-10-03-wow-forever-foreman-thistlenettle.BvJPe-qw_ZN2S9g.webp 6780e04
 _astro/2026-10-03-wow-forever-ghostshard-talisman-and-necrotic-wand.CQ7nnPGe_Z2jWzn4.webp e677d510d016941ed08a8c10b120fa9bdc32743b
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU_.jpg dcaf3713b137df7111b2b43ae73594f5313ad260
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__14KhmA.webp b838e13eb5aa0fa7c6ddaf162843b0b2c606d6f9
+_astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__1Hk5aQ.webp 514d1dc62d4c142abfe47dc4a71f875c53c8a9df
+_astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__1IRXmm.webp 2d1b1e0b56a5ed9454ed441d603ce3a156e11567
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__202KpK.webp a7f59126a38f1b945bfa959b1d0a4f2149d8ad2b
+_astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__ECEyr.webp b838e13eb5aa0fa7c6ddaf162843b0b2c606d6f9
+_astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__Z1P2MPd.webp cae9bba4c0017193633cefaa9f3e19697531a767
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__Z287JM4.webp 5b58b27c8a7ba1a590d6d719c0112e3c3f85fc60
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__Z2rbVYC.webp 50fc961c2324c41c597625bb45096d5cdcbc6365
 _astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__ZIIXuh.webp 5b75fb0e4624cca5e4a1c56821283e59a985fb85
+_astro/2026-10-03-wow-forever-gnomeregan-front-entrance.BloP1NU__szLjP.webp 9206e1678594b75aabbc03069aae82b5414aa525
 _astro/2026-10-03-wow-forever-gryan-stoutmantle.yWxcaAk8_2oemwc.webp 0b18d0112ed43983c8adc28ae96e42bcf5887643
 _astro/2026-10-03-wow-forever-gryan-stoutmantle.yWxcaAk8_Z1p3PRc.webp 799a95656a918190d594994f0d2de55091ff9875
 _astro/2026-10-03-wow-forever-gryan-stoutmantle.yWxcaAk8_Z2sS69m.webp e336cd8c7b42ab450b115d4c20f94896b5d7622f
@@ -1702,10 +1707,14 @@ _astro/2026-10-21-wow-forever-raids-hyjal-summit-tower.CZzPK9oR_Zbc5jT.webp 9c29
 _astro/2026-10-21-wow-forever-raids-onyxias-lair.DAnlDqhc_Z1Xg2Ds.webp e8509bd2bb60c53c7799eed3c9676a1967e4fc54
 _astro/2026-10-21-wow-forever-reckoning-charges.BPL6I7RU_Z1XxOy6.webp 5154d5885bfa77157ceb07ee2f1d047f5ac83f7c
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t.jpg 8acc48a104d8831f1a01070e0a1c5429c51e71ca
+_astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_1FuilD.webp cb8ff32fdbfff00c6bed9943f35c7a1c8faa39ea
+_astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_1yFglX.webp 48155f2c4ff0dfbf372de579df55dbadc9ef673d
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_Z2g9GTx.webp 87fc1af0e17694473d1787bdd4437a2ed2aed07c
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_Z2lkxOj.webp 37860e1be9db7d692470ce12f4e4327519d83264
+_astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_Z2vbehb.webp 37860e1be9db7d692470ce12f4e4327519d83264
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_ZCVlRx.webp d7b9d17eb5dfba941cbbb31ef8ca6befc85ec712
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_ZMHtNH.webp ef045b41f872c4b1e9aff0485a7a4f4b4fd401a8
+_astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_ZSChRU.webp 6199e073aed7b6c1ed8a3c3862929c508d76845a
 _astro/2026-10-21-wow-forever-shadow-priest-build.BfnPKh-t_Zq9m68.webp baf9e7c63e31e6f49b8a18b202abefb28c5a76f5
 _astro/2026-10-22-wow-forever-beta-farewell-tour.D_MSr4I3.jpg 69578fb89da5d9c7a5be1274a561c142b3f6cfa4
 _astro/2026-10-22-wow-forever-beta-farewell-tour.D_MSr4I3_1qvTEC.webp 6632b956e8cfc218742b99ca71768ab62c000477
@@ -2168,7 +2177,9 @@ _astro/2026-11-13-wow-forever-cost-of-honor.Blz4bN0f_Z15xFKE.webp a508121ad76dd0
 _astro/2026-11-13-wow-forever-cost-of-honor.Blz4bN0f_Z1KHo34.webp a508121ad76dd08753a5b141225902c1566861a6
 _astro/2026-11-13-wow-forever-cost-of-honor.Blz4bN0f_Z1smcTH.webp 30ebcd558d90304edf9d70b697b1b3b6b544f684
 _astro/2026-11-13-wow-forever-cost-of-honor.Blz4bN0f_ZulONg.webp 002c364acf19d54a7cbf7cfb663ecf04cb4eb629
+_astro/2026-11-13-wow-forever-horde-reputations-honored.DwYUIGGg.jpg c261aa8e50461897ab23fc4519d660d2b8152fa4
 _astro/2026-11-13-wow-forever-horde-reputations-honored.DwYUIGGg_1kDaBf.webp de274e1a447de60de27d1d0912b4af92a8193161
+_astro/2026-11-13-wow-forever-horde-reputations-honored.DwYUIGGg_Z1LuDoI.webp de274e1a447de60de27d1d0912b4af92a8193161
 _astro/2026-11-13-wow-forever-skyborne-riding-trainer.CmBbkV0M.jpg ef0d96dcac0c54490c88379bb6bbbc9f656c00b8
 _astro/2026-11-13-wow-forever-skyborne-riding-trainer.CmBbkV0M_1fL2c5.webp 230ef9bbe98ec3659546c73685a920b8f1a8864f
 _astro/2026-11-13-wow-forever-skyborne-riding-trainer.CmBbkV0M_Z2ofFR.webp ed1cfce04dd18279998b09656e59442b259d61b8
@@ -4884,6 +4895,7 @@ wh/inv_leather_raiddruid_n_01pant.jpg a1e3a171c1c4366cf75a7f76a1b95408e0da32fd
 wh/inv_leather_raiddruid_n_01shoulder.jpg 62475e60e1fb50d36ab8e97e5407ba16222475fd
 wh/inv_leatherworking_90_leatherhide.jpg d3c52e269c44eb16707a9dfee26edb1ca4ea4e6f
 wh/inv_legendary_chimeraoffear.jpg 3f1e9f6a4902bb3b77285ce35de2f9cbfc8fad1f
+wh/inv_letter_04.jpg 7b7855d6c39de9136d7fc812eb86c8d9e7393c5d
 wh/inv_letter_15.jpg fb2e1f117d4ded41cd6a4b59a588adaa31cf3b0e
 wh/inv_letter_17.jpg 584c8a4b0635e1a7e87167eb389857da3f2e2966
 wh/inv_mace22.jpg 82d7bc46960f98ced090074add61a01acc2eb352
@@ -7099,6 +7111,7 @@ wh/spell_holy_wordfortitude.jpg 0577d84989c0837ae77d52e7d8424f4c6ccb0bf9
 wh/spell_ice_lament.jpg 256169731de77a368667148325655eeea1e6bd3a
 wh/spell_ice_magicdamage.jpg 21ea2944f8834969f288d12472adf94e72dd428b
 wh/spell_lightning_lightningbolt01.jpg 0cfbf0cf98a02d689a990f97e05e17d88fbc22f0
+wh/spell_mage_flameorb.jpg 2b4342f48c757b699873ee9b71edbfd3018d10a0
 wh/spell_mage_runeofpower.jpg 619f8706df9663775829fef0c44afa1308af2540
 wh/spell_magearmor.jpg bcbeb70fb025f54310b791f5d57090c162130aa5
 wh/spell_magic_featherfall.jpg ef2676a1a97af8b66bc7d343548a6c659a2c2064
