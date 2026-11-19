@@ -2245,6 +2245,11 @@ _astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_28pKk2.webp 7fec6fb4404
 _astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Z143ej1.webp c5b62a0f1594dc35f49e18430053e3506ba358f9
 _astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Z1t6Lx.webp ea59a4a95683c6ef6ae99fb0456ff0e7a3ce488a
 _astro/2026-11-17-wow-forever-blackmaw-devotees.DcskSpDZ_Zn2vEu.webp e325305a11dd35409e1a4910361fa564171af191
+_astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv.jpg 279e3b56d2a7f18261a8f3617a5aec2716b62458
+_astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_27Mjv1.webp dbddcf9aadd8f1382014cec76826f95eac7837a0
+_astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_2brAJB.webp fc4b11ce547307657e8bbf4fb33a1bf25b31ab93
+_astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_646IR.webp a4485cfee0ce849862e26ad0c9336064d2a49d26
+_astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_ZTEirf.webp dbddcf9aadd8f1382014cec76826f95eac7837a0
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -4624,6 +4629,7 @@ wh/inv_jewelcrafting_gem_42.jpg 2134bb3c20eedd1a05d4d32e4c2a627011d2dfff
 wh/inv_jewelcrafting_goldencrab.jpg e2f440204f0fd6518e8dbaafa6b2a4bf57a66a90
 wh/inv_jewelcrafting_icediamond_01.jpg fa1f885f0ec8057c25102c05f61b5b807b4d7653
 wh/inv_jewelcrafting_icediamond_02.jpg 987c5b380af6306f9541110a34831669bca790ce
+wh/inv_jewelcrafting_jadepanther.jpg ab5154e8628329156d5fd8648b9e929d8e1a4e77
 wh/inv_jewelcrafting_lionseye_02.jpg 72a111c615faf4b251b86b17bceafb16dc6f2aac
 wh/inv_jewelcrafting_livingruby_03.jpg 97dc6e5d88c156dbf10722f3d0a93aa3fc717668
 wh/inv_jewelcrafting_mithrilfiligree.jpg 67f587238a4e0f81db7aa81883a3e40ee596b34c
