@@ -1242,9 +1242,14 @@ _astro/2026-10-12-wow-forever-stormwind-harbor.DV4vK6MU_Z262m3m.webp 9d94886f31d
 _astro/2026-10-12-wow-forever-stormwind-harbor.DV4vK6MU_ZWVrnk.webp fd0fae03ea8dd926f13535446531e0f12e0b5518
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j.jpg 400800337591884a96846e68778dd805c0474317
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_1guhnN.webp 305c68e50a74c09590fe52b5e3512a7ea75a3d0a
+_astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_27YSoo.webp 239cdc503464ab7116654897ad1e51956d925e7b
+_astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_2lmR3n.webp a6dd8376d46baafb7cd0a08105689da012dfef10
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_2wye4X.webp 7e9fdc77cd404a7be742b9bb24be2f38a9cc3e79
+_astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_3bk4.webp d17c81dcfee68dc8f5b77e90e341a2501101fe32
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_PqAD6.webp 7e9fdc77cd404a7be742b9bb24be2f38a9cc3e79
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_Z21jkCb.webp 3abae0f29b28d3ce880b45f0484697e200903d39
+_astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_Z4tJN7.webp d46427adfcfc812e5d1f9b3eb118dc0be097ee3a
+_astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_Znkd4x.webp 6bd30cad482a25feda01080a72e2de1d5fecb788
 _astro/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.1wk6Rl3j_oYFnd.webp 4badbd6e303ce86fd7d54f14f2ce06a91145249f
 _astro/2026-10-13-wow-forever-collectors-edition-statue-gold.CHMrY80X.jpg ba6f35fb4c9990a3f607698ac93c46721ced5def
 _astro/2026-10-13-wow-forever-collectors-edition-statue-gold.CHMrY80X_Z16R3I0.webp 21e6decde6420ca614c4a42cce2731f0e7c7d2f5
