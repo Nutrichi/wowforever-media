@@ -353,6 +353,7 @@ _astro/2026-09-29-wow-forever-camp-in-elwynn-forest.CLUw5Eh7_ZKnFOU.webp f7294b8
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8.jpg 5716a1df7c8c91811de226e61028026a19e9c47e
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_1YCPMC.webp ca26db7117e3b63c7e8815a428889fcf76c5d022
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_1ibFQA.webp fa45f131e719d334cf1aca5f41d89c72c10abb9c
+_astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_Z1yBr86.webp c21e69a6e4a4c815e09fa57d4d6afe2252c5d481
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_Z24eal1.webp 5b4ca7b6e30258d4e946de301afef4bb43e2c1c2
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_Z2nxsE9.webp 6aa2786eaf323b3ae17b90768a3a5bf6be4aeb29
 _astro/2026-09-29-wow-forever-camp-in-teldrassil.Bpig47y8_Z3xNUW.webp 27f945086c7aff2f6ad2d1ecdc3868bf24512c35
@@ -2255,6 +2256,10 @@ _astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_27Mjv1.webp dbddcf9aadd
 _astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_2brAJB.webp fc4b11ce547307657e8bbf4fb33a1bf25b31ab93
 _astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_646IR.webp a4485cfee0ce849862e26ad0c9336064d2a49d26
 _astro/2026-11-19-wow-forever-podcast-episode-8.CKD3k6Qv_ZTEirf.webp dbddcf9aadd8f1382014cec76826f95eac7837a0
+_astro/2026-11-20-wow-forever-journeyman-riding-900-gold.B_k2moMV_ZhzSRR.webp 3fbf36b68f06d3bce0558c0a81c7e0a8b3927621
+_astro/2026-11-20-wow-forever-mote-of-unstable-magic-soulbound.fYe42gv5_1TG0m6.webp 9d14c1686150bcbdbda7f0d0c4500a7e620c7562
+_astro/2026-11-20-wow-forever-runecloth-stacks.CJk6UyZ2_1gbq5j.webp ec7c1b254a0689766b17a5ff055914bb5a7176f3
+_astro/2026-11-20-wow-forever-seed-hybridizer-tooltip.mvmxn4yE_27e51L.webp 80bc0e7b89045a4c1794cd8eaba7a423fd75ed82
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -3160,6 +3165,7 @@ wh/ability_shaman_lavalash.jpg 07b58391db5c2deba5cd3bb62326f54f558c4f0e
 wh/ability_shaman_stormstrike.jpg e9b43c8510673090f7f886cea8c9a31b7bdaa633
 wh/ability_shaman_totemrelocation.jpg 57bc95928622c71f7050943c1a12713f49e3e790
 wh/ability_shaman_watershield.jpg 1cbc98c4588c9b2e170f50f27f80aeaeddafd5f4
+wh/ability_shawaterelemental_reform.jpg a0c333159f5daca0bb197ebde199b692a6afe396
 wh/ability_shockwave.jpg 6683e9b1c09e169fc7884be3f0910ba8d2f44316
 wh/ability_shootwand.jpg fcc7e3f29553c43c693c804553d0b1eca0d058fc
 wh/ability_skyreach_lens_flare.jpg 77737efc80faf205f013bad61d551decb27eff50
@@ -3270,6 +3276,7 @@ wh/inv_10_alchemy2_quenchingfluid_color2.jpg 9742219dee607701ebb1dea7be39a86b36e
 wh/inv_10_alchemy2_quenchingfluid_color3.jpg a6cd0366c9f0596d404162e6d0684555f7e66c96
 wh/inv_10_alchemy2_quenchingfluid_color4.jpg cc165d3e92118ab08bae2d86ae4a7270fba352b0
 wh/inv_10_alchemy_incenseholder_color1.jpg c30aea9ed59ca0d1fd6b05af85b54f560c5c27a7
+wh/inv_10_dungeonjewelry_dragon_trinket_2arcanemagical_blue.jpg bf70dff7e83ecdfd1aa4f4ed8ed2ce659ce492b8
 wh/inv_10_dungeonjewelry_titan_ring_1_color4.jpg 779faefd93e988d39c96e9a5cd72dd5994def30b
 wh/inv_10_elementalcombinedfoozles_lightning.jpg da423e8c0feaa11d86c118eddbdadee0a1bb5158
 wh/inv_10_enchanting2_magicswirl_bronze.jpg 5795fd95bc5ca434635333074a3ba354368404ba
