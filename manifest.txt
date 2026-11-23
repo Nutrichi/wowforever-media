@@ -298,7 +298,10 @@ _astro/2026-09-28-wow-forever-hall-of-thanes-entrance.B2aXHsqh_21pgTJ.webp 43dd9
 _astro/2026-09-28-wow-forever-hall-of-thanes-entrance.B2aXHsqh_2dn9TA.webp 4cc630e7223f25ed85b945c29743a104dea152d0
 _astro/2026-09-28-wow-forever-hall-of-thanes-entrance.B2aXHsqh_Z1to4IJ.webp 9bce7f3234e09677228222dc0751f40a1fb535eb
 _astro/2026-09-28-wow-forever-hall-of-thanes-entrance.B2aXHsqh_ZU7cGO.webp 256e5c5b6ba49411519d5334223c48deedb3dc4e
+_astro/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.BtYpBTE7.jpg f0d4d2db3f29b2143b9ac772e0e24c727f076fc4
+_astro/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.BtYpBTE7_29x1bX.webp 3a7489b1eddccbf9093c60cd38316dd65e65906e
 _astro/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.BtYpBTE7_Z1Huwu7.webp 3a7489b1eddccbf9093c60cd38316dd65e65906e
+_astro/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.BtYpBTE7_Z1NX2Bb.webp 09c976a0d04aa17776dd2e1a50362187d2ccb15d
 _astro/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.C8HkfwOr_ROy21.webp 03d74578af93bfbdc2a471b15e04292745a8b016
 _astro/2026-09-28-wow-forever-hall-of-thanes-plunder.BbjWb_2h_1wvojU.webp 0e8e1fc35944596a6c5eadcf2061bb1fc8c5909c
 _astro/2026-09-28-wow-forever-hall-of-thanes-summoner.CFdf-3L__2mJf7M.webp e739d56f01db4ad7c42d8281c6003b917ed27371
@@ -685,7 +688,10 @@ _astro/2026-10-03-wow-forever-razorfen-kraul-entrance.CAriG906_ZhJCrh.webp e3090
 _astro/2026-10-03-wow-forever-razorfen-kraul-overlord-ramtusk.B5Zm6GNM_Z2k1inJ.webp ae725aa6e5ebdc9f3111e956af65a242fa43e68f
 _astro/2026-10-03-wow-forever-razorfen-kraul-roogug.CZi84Wi1.jpg a37bc485e9d8a3ed9f831afaf36cfaf5d49a5bb8
 _astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-.jpg 573fab9b6714f12b5248746b23e8b6ed9533b312
+_astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_1G02LH.webp d8989eec9c08a897ca1f72e1be2c08ade1c2a041
+_astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_Wcyyv.webp 012cb057a884f88663d8a49b63754567dd4976fe
 _astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_Z1ikkR9.webp 3d6ce37c8906a7be3ed54d0dc2c1489754be0d66
+_astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_Z1lbDlE.webp 0910e02fac003c27662776e2429ed92083dfa27a
 _astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_Z28F1tQ.webp 0910e02fac003c27662776e2429ed92083dfa27a
 _astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_Z6mCkN.webp a9d0ee2ad2c364ca78ca7aa084daf4da05c1a4bc
 _astro/2026-10-03-wow-forever-scarlet-monastery-armory.IyFlcAh-_ZiLbQ7.webp 6ba2b8fc95d4994bb987f12a6af729de5dc787d6
@@ -926,6 +932,7 @@ _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO.jpg a7e3297dc9d0773
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_1i3baC.webp c27888bbea99024d40e2d8d5ffc724245e4b3bc0
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_1yFt8g.webp 523fc981bd89278c14aee7bd44292ad32477cd3f
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_IcpIj.webp 8c5d30f1d58349dd01ab0d8d8cb0294d38196a01
+_astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_J7zKd.webp dbfba788aafb77b29ee7f30cd6c3eb0ac2c3ab31
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_SFflr.webp 81740ea1ab5403c36bc373500ef033fb9c3a02ec
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_Z1zjeYm.webp 1193021f0caf33e8dfc610faafeb84f35f5a1c3a
 _astro/2026-10-06-wow-forever-library-reading-table.BvoEIuRO_Z26PYhB.webp cdc448c008c4511828d4a0b89147a8553fcd61b4
@@ -1897,7 +1904,11 @@ _astro/2026-10-26-wow-forever-dalaran-arcanic-enigma.CdaQK1s5.jpg f7c59fdb487ff5
 _astro/2026-10-26-wow-forever-dalaran-atrexis-ritual-circle.Bt4hNi9Z_Z1okC8r.webp 78695ce172a17da3b79e755c8df13933c3cfcf50
 _astro/2026-10-26-wow-forever-dalaran-fel-ancient-runeweaver-square.DzgXPCVJ_ZpDqgC.webp 82c61fcfb66e90dd19aadc6634b4b192248cf6aa
 _astro/2026-10-26-wow-forever-dalaran-image-of-modera.c7FZF_lF_1weKpI.webp 6ef6dabcb0ab25cd4b48717c33f247852d4157ca
+_astro/2026-10-26-wow-forever-dalaran-locked-door.BSqwoV-B.jpg b859994b61f7a7bb0d4ef9491afbb0d125fbb59b
 _astro/2026-10-26-wow-forever-dalaran-locked-door.BSqwoV-B_29sJza.webp 85f7b817c43103c2a118e2224066dd47c59e7ed6
+_astro/2026-10-26-wow-forever-dalaran-locked-door.BSqwoV-B_2ebBQ9.webp 38316e29e045d0a5bb42ac2c384f943feb0e8872
+_astro/2026-10-26-wow-forever-dalaran-locked-door.BSqwoV-B_Z14C6HC.webp 85f7b817c43103c2a118e2224066dd47c59e7ed6
+_astro/2026-10-26-wow-forever-dalaran-locked-door.BSqwoV-B_Z1rz4z2.webp 480ff0ab8daef977501d792ca8070bf73e244e68
 _astro/2026-10-26-wow-forever-dalaran-mana-devourer-violet-hold.exEltHac.jpg 1b6372674a790a2182717d39be938e9889c1e8a1
 _astro/2026-10-26-wow-forever-dalaran-modera-violet-citadel-steps.ljEH8RLt_Z5h1zz.webp 909bc116d9cc429cbd01fedb203bc878d42f4b34
 _astro/2026-10-26-wow-forever-escape-together.QNljW7kX.jpg da75d75ff0ffde64436e4bd2b01bf50dd5f94b79
@@ -2158,7 +2169,11 @@ _astro/2026-11-11-wow-forever-shaman-with-fire-and-frost.DnQR4TC7_qMtbA.webp eb9
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0.jpg cc3ee849747290b8a25008b773d708ac852320b2
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_1bhxKi.webp 4a81e74dd1b0a8ec1b2a7aabe87d3039613b3b64
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_2gjW4I.webp e7237179e3b5abb70de41b6973da72c9704c9881
+_astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_S8U0a.webp 671ba8ff2952341c4875bf622bf52034641846b6
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_Z1L5SCQ.webp 671ba8ff2952341c4875bf622bf52034641846b6
+_astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_Z1XLmTq.webp 7b79e5415cf72534a5bdda6328f1ff5337b78657
+_astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_Z2fS4uK.webp 20df441a977177b9713cdffa2b638db1b6aad8ab
+_astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_ZKNrsp.webp ca9241b59f82f033f31ab6a52e7a941d7624773d
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_ZiBHY2.webp b30518c671b18944147cadf97826a9d23febeb8b
 _astro/2026-11-12-wow-forever-librarian-stormwind.BwMQx3Z0_zEhMC.webp d317d4bcad603ced3f927d446404536749c7dd22
 _astro/2026-11-12-wow-forever-podcast-episode-7.CZWgGHf1.jpg 483842053c75143c7533545ef42e5ee192fd85c4
@@ -4174,6 +4189,8 @@ wh/inv_feather_04.jpg d653191f2453eab5466e166ec79d919a88ca360f
 wh/inv_feather_05.jpg 6f6cc33367de47f79b90f73e76bfd4fb622ae354
 wh/inv_feather_06.jpg 41cb0e0ee1d3578bacce2c6d8146921c1b47a07c
 wh/inv_feather_12.jpg 6c32c52cfbad313933cd6dcef8116658e3e88706
+wh/inv_feather_13.jpg 78ac3d1d468d7b5aa18cd42ab35001200fe170c0
+wh/inv_feather_14.jpg c59d89714f74afd822de2af57e1592cacfd1dd7d
 wh/inv_firearm_2h_rifle_orgrimmarraid_d_01.jpg 147d61300ec16b71fa2e9889d5c58f67a41b0bf9
 wh/inv_firearm_2h_rifle_pandaraid_d_01.jpg 195c5791e2a6f58574a37e8aba6ddf764c1af089
 wh/inv_firearm_2h_rifle_thunderisleraid_d_01.jpg 0f40306b5f4ddfc86227d9386bea38a9f61a7aec
@@ -5077,6 +5094,7 @@ wh/inv_misc_bag_11.jpg 88b91fef1ae1b497e062c0ea75f15f8dac06ee81
 wh/inv_misc_bag_12.jpg 8870416cdcadfaf25011e62468b6710082d67674
 wh/inv_misc_bag_13.jpg 467a7aa3ea976db86afc418cb56b7785a76771b7
 wh/inv_misc_bag_14.jpg 955ffc6cf38b08e60afe070580f15034401e02a9
+wh/inv_misc_bag_16.jpg e01aa8bf8b44510e8d60873f21bc572b9250f559
 wh/inv_misc_bag_17.jpg db069eb8aaa7f7b39b32b1d8cd5a082549a7de12
 wh/inv_misc_bag_18.jpg acaeed59096666f86fe4085be4d196259a70c572
 wh/inv_misc_bag_19.jpg 1aa50b3f2d9cb9ed393b84510a0d4a9b6817dd4d
@@ -5848,6 +5866,7 @@ wh/inv_misc_wailingbone.jpg a0b3eceafbfb67f71ba2bf535527a0e269d7887c
 wh/inv_misc_wartornscrap_plate.jpg 136b9fd749d12fd144675c1215cab408b38f2da2
 wh/inv_misc_web_02.jpg 8a19a9449e355577986beaadbccfbf1785e6918c
 wh/inv_misc_wrench_01.jpg d3f229a92b9f328536021aef70ff042d058f1eeb
+wh/inv_mushroom_07.jpg 8c9971ceccc265fa5f49e9b4f8a5882fb6c33741
 wh/inv_mushroom_08.jpg def323fb4fd15bea18d36f1c9e1e02271add0258
 wh/inv_mushroom_11.jpg 793464fd2d03023c62552bffdcb755bc2aa53860
 wh/inv_musket_01.jpg 02810e90cd480c1a29549a95748919616bfbfcd7
@@ -7437,6 +7456,8 @@ wh/trade_alchemy_potiona5.jpg ff5d45c80f880f834788b2f84195cae58fc27057
 wh/trade_alchemy_potionb6.jpg 71852f137578f76c9d7d7d8e66836cf13562f986
 wh/trade_alchemy_potiond6.jpg daa3dd3f5d0128205ce2c4a295146538661bad5d
 wh/trade_archaeology_insect-in-amber.jpg ef6b3385eba7ba54805991f84b33341364627f26
+wh/trade_archaeology_mithrilnecklace.jpg 16848a8c7387a7de6ca7a5f7b0d2fed4629dd509
+wh/trade_archaeology_pendant-of-the-aqir.jpg 514ce59572c00340e65e154a16c6736a641cba3c
 wh/trade_archaeology_ring-of-the-boyemperor.jpg f2bdf68faa9c3d36f2de1376b408723c3485cfde
 wh/trade_archaeology_scimitar-of-the-sirocco.jpg d25dd611b94faf8e4585be73e97897bbb171e973
 wh/trade_archaeology_shark-jaws.jpg 5b8042d060fa0a24f54137834be3f92651ad4b97
