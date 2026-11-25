@@ -1214,7 +1214,12 @@ _astro/2026-10-12-wow-forever-disturbed-ghoul.D03wOQvW_1EPX4A.webp fe6832b7f197c
 _astro/2026-10-12-wow-forever-disturbed-ghoul.D03wOQvW_1qxaOO.webp 41a85edeb44e6c86b54bb3873f19ac8a7724c88d
 _astro/2026-10-12-wow-forever-disturbed-ghoul.D03wOQvW_Z2n2iLx.webp fff2ae697c8302c7d7493876163ddaddd8e5c30f
 _astro/2026-10-12-wow-forever-disturbed-ghoul.D03wOQvW_Zcq2Jo.webp 4b32692c5a0af165ebb34975cbd3c380465a5122
+_astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS.jpg 867667207751a39cccad5c0eccc37f2f53bb858c
+_astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS_QafHr.webp 6d66536605264d7f013633527048cacdb956297a
+_astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS_Z1o3bBE.webp 08b1a873c8abf83e250a340139d8a20822a4fc38
+_astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS_Z20zFxP.webp ed06c257a2f0dc66771b554fb5682e6122ba51a7
 _astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS_Z2wTfEC.webp 6d66536605264d7f013633527048cacdb956297a
+_astro/2026-10-12-wow-forever-dwarf-and-bear-cinematic.4ARyA8qS_ZwxzB4.webp 2ddf445c395fc94f4503c25baa347c926b3c83ab
 _astro/2026-10-12-wow-forever-holly-longdale-clay-stone.DXPGms1Y.jpg 41444b48dbd33a78532e4a459f699e04380196a6
 _astro/2026-10-12-wow-forever-holly-longdale-clay-stone.DXPGms1Y_100i4D.webp 96a60421dffa801913b2d36871488c7d7c7f4854
 _astro/2026-10-12-wow-forever-holly-longdale-clay-stone.DXPGms1Y_2atIjY.webp 708d4aac09e8a0548fc22ef6f1b6a559ed1ac381
@@ -1531,7 +1536,11 @@ _astro/2026-10-20-wow-forever-zephras-isle-aamelias-farm.CGLnDxq2_ZzMfPX.webp e4
 _astro/2026-10-20-wow-forever-zephras-isle-aanders.DrfCIwO5_Z1FXH71.webp 86ad44f5368cb089621fc24eb3925e34ad1c4a76
 _astro/2026-10-20-wow-forever-zephras-isle-abandoned-belongings.CjUcaD9L_UOLQM.webp 591a3956e627ff51c668fa1b86a9ef827b59cd2d
 _astro/2026-10-20-wow-forever-zephras-isle-air-bridge.CNKwcKmX_ZkK1Oy.webp 802fc8492fad688b41846d9433bd2ec60f6da436
+_astro/2026-10-20-wow-forever-zephras-isle-alaketh-ambusher.0hs7ICgn.jpg a03110b935b885815b17ef041f16509a1b4d8ee7
+_astro/2026-10-20-wow-forever-zephras-isle-alaketh-ambusher.0hs7ICgn_1Rb9U3.webp 964e1847152fe643eb0cde6a3b653d5582dd624c
 _astro/2026-10-20-wow-forever-zephras-isle-alaketh-ambusher.0hs7ICgn_Z2lCDj1.webp 96b3ba6876d0d57fe2e6191345598385e57e51e2
+_astro/2026-10-20-wow-forever-zephras-isle-alaketh-ambusher.0hs7ICgn_ZB2uPW.webp f62d9cfb7d40d970891a11987c753ee6e0bceaf9
+_astro/2026-10-20-wow-forever-zephras-isle-alaketh-ambusher.0hs7ICgn_vaPRg.webp 96b3ba6876d0d57fe2e6191345598385e57e51e2
 _astro/2026-10-20-wow-forever-zephras-isle-allies-arrive.ByNxj8b0_Z1HF7go.webp b2ec575ab8d74eecf7fe22185c54ca61e402e676
 _astro/2026-10-20-wow-forever-zephras-isle-ancient-heirloom.Dao-Kihp_CmXip.webp 2e6c1b1764c9ce4ae8deea5a0d0d136002f8c4c8
 _astro/2026-10-20-wow-forever-zephras-isle-arvensus.fPuaMk9o_Z24nozo.webp 5c3561408dc0d04621d5afb4d07935b83eaca68b
@@ -4388,6 +4397,7 @@ wh/inv_hammer_18.jpg f87465e5952bf4529752b4ddbb7d08a760a27ee1
 wh/inv_hammer_19.jpg ed88f9b1bcc6cbf1e58fdb30bb14332e9cabade6
 wh/inv_hammer_20.jpg 65f6dd245a1d3bc34264fa649254adb5dac396f5
 wh/inv_hammer_21.jpg 3d625c1eac7c11dbb16a48bb8df30d5cc586a16c
+wh/inv_hammer_22.jpg f3343ead410a4e7b0afe275d4a79f4bd23d81801
 wh/inv_hammer_23.jpg 3ba7770e9de726042e1d164f672a7df3489abe80
 wh/inv_hammer_31.jpg 2dd5c3199799046fcf0419efa2fb0369a4baf9c3
 wh/inv_hammer_unique_sulfuras.jpg 1fe8af34c13a22f168001e8b8f07ee3de35061d9
