@@ -2296,6 +2296,26 @@ _astro/2026-11-20-wow-forever-journeyman-riding-900-gold.B_k2moMV_ZhzSRR.webp 3f
 _astro/2026-11-20-wow-forever-mote-of-unstable-magic-soulbound.fYe42gv5_1TG0m6.webp 9d14c1686150bcbdbda7f0d0c4500a7e620c7562
 _astro/2026-11-20-wow-forever-runecloth-stacks.CJk6UyZ2_1gbq5j.webp ec7c1b254a0689766b17a5ff055914bb5a7176f3
 _astro/2026-11-20-wow-forever-seed-hybridizer-tooltip.mvmxn4yE_27e51L.webp 80bc0e7b89045a4c1794cd8eaba7a423fd75ed82
+_astro/2026-11-27-wow-forever-gear-store-alliance-quarter-zip.C2p1ZBB-_mz1jB.webp cff43ed18561634a8918a83ff73c53f1f94945b7
+_astro/2026-11-27-wow-forever-gear-store-arcantina-mug.BA5Obg_r_MQoLk.webp 8ab8b98131d50b56179b714faf2332fcaf9689dc
+_astro/2026-11-27-wow-forever-gear-store-arthas-statue.BlzaYfTz_KkII5.webp 4f4cc56a5d4ed42926ef9568d81345bf783f8810
+_astro/2026-11-27-wow-forever-gear-store-azeroth-forever-hoodie.CvlX5Wjo_Z28Hnb0.webp e970a6431b944e8f6ea911a72c5a7b741a8a6812
+_astro/2026-11-27-wow-forever-gear-store-bandarion-keep-poster.BTMG1Uw6_Z2rhNX.webp 7c0bf00c47fbaae87bd14d3a9ff00bf0f3b4dbcc
+_astro/2026-11-27-wow-forever-gear-store-dalaran-poster.D_NG1g32_wOB97.webp 76ff7a25ba00631b61d748309fd1d0b01beecdef
+_astro/2026-11-27-wow-forever-gear-store-dalaran-t-shirt.B2wISXy4_1W9B4L.webp cd532f27957ce2e9f6b0c1ddbc5a007a491b9f0a
+_astro/2026-11-27-wow-forever-gear-store-darion-mograine-armor.B_pvkf1q_1JkeyR.webp a641a73b520391c20566f6a7dc065f3024a58a98
+_astro/2026-11-27-wow-forever-gear-store-mount-hyjal-poster.Cgzd1Sn3_Yciya.webp a4ea8dfc54640391150db60403cbea4b6d3ba66b
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8.jpg 6b12dc2bfb918123f5557e314248154a7ff50098
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8_1N7sre.webp 2bc1dbd693eed56a3f0f6c467140cbfd16bf9dce
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8_1OLwzj.webp ebd6e2c879792591522876af9e14a254f70ccc83
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8_1pDTLa.webp ebd6e2c879792591522876af9e14a254f70ccc83
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8_Z151xCu.webp 89bcb2f6f685bf5062032c035f863022f4a6173d
+_astro/2026-11-27-wow-forever-gear-store-travel-posters.DU9Km0V8_Z22kmvG.webp 4ca066166836ad06f82ff9acaac48b9cc3a01724
+_astro/2026-11-27-wow-forever-gear-store-weapons-jacket.BKT1lqIE_Z2rJH2J.webp 02bae76509e6435b5ba3c365d37f814e6e507d8c
+_astro/2026-11-27-wow-forever-gear-store-what-sword-hoodie.CCAJf-HO_14d5fr.webp f5220e0e0a6163ddaa8e0579c46c00d986d409a3
+_astro/2026-11-27-wow-forever-gear-store-xalatath-t-shirt.CLVwfOGc_1i3cjO.webp 53ba915e3fb68dc278fa5c6cc67aaa6b26195244
+_astro/2026-11-27-wow-forever-gear-store-zephras-isle-poster.DagHXkGC_Z1ECg7L.webp 7f3fa5dca1817a055430227d9e272279a5bcf37d
+_astro/2026-11-27-wow-forever-gear-store-zephras-isle-t-shirt.Cafn-ypi_1g74IR.webp 6335525ef952f8c6f83718a86e8e5b6135b25c3c
 _astro/blackfathom-deeps-1.NId82qe6_2lLnEl.webp 6a210364d98b7c3028d6a2804a123df6df65cef5
 _astro/blackfathom-deeps-1.NId82qe6_ZtXws4.webp 33a739d88ee66d3140dc6334a49ef556576410e0
 _astro/blackfathom-deeps-1.NId82qe6_x9bLB.webp 64ea5fcb159ecfd3b70bae901ccd798ce742f30c
@@ -4835,6 +4855,7 @@ wh/inv_jewelry_ring_23.jpg 66bed18e7f72a5c75d9bc1b5853d50dd0248d84d
 wh/inv_jewelry_ring_24.jpg 408c7418055ad6541a6a2de4cc01b762b48826b8
 wh/inv_jewelry_ring_25.jpg 6a6b98b83e1db0dd3ecbd1ff5c04d22f0293237c
 wh/inv_jewelry_ring_26.jpg fc5a8d5be0d1fd2689984e9055fe5f1d8c8175a4
+wh/inv_jewelry_ring_27.jpg f0580a73918efeeeb916e583da3de8dc6b6aec80
 wh/inv_jewelry_ring_28.jpg 550454cd28d2a15428b89582d96a2b9ccb8f993c
 wh/inv_jewelry_ring_29.jpg d94c96f3208693daf21118f2233072b5c9bc5245
 wh/inv_jewelry_ring_30.jpg fc585ae8f7b87a7a5a7ef1253ef46fec199d53ce
@@ -4916,6 +4937,7 @@ wh/inv_jewelry_ring_firelandsraid_03c.jpg 0c9789aec4b487c48c457598169872156d6f9e
 wh/inv_jewelry_ring_zulgurub_01.jpg 823478a9274a046e0193b9fae24165b4eeff2dac
 wh/inv_jewelry_stormpiketrinket_05.jpg 2bbf07038128dd035eadd910546bd58aef735822
 wh/inv_jewelry_talisman_01.jpg 2481f83f156004c281ed016115dccda43ec07260
+wh/inv_jewelry_talisman_02.jpg 6061e244a0858de2b161d8ec90c3515a0babeb04
 wh/inv_jewelry_talisman_03.jpg e1966fe2c4909a2f3fa496422211b542e6f1e9ec
 wh/inv_jewelry_talisman_04.jpg ccdf34f09732452b47566e2c9a6a4a6b09b5681f
 wh/inv_jewelry_talisman_05.jpg d134cd747371a3d9314cf34e720a51c740930bbd
@@ -5841,6 +5863,7 @@ wh/inv_misc_stonetablet_05.jpg c8405eac93768b00b84cd044e441dd1869d2c2b0
 wh/inv_misc_stonetablet_06.jpg ae0e72a0fb4ba08b59670ecf03c89c9d12c78612
 wh/inv_misc_stonetablet_07.jpg fb527c1788aafdd5bfe6e9d4e5aa7110a85c0718
 wh/inv_misc_stonetablet_08.jpg 72692f5bd0a222cba31b626a7154331d01027872
+wh/inv_misc_stonetablet_10.jpg 3994e5c0b7bf94dbc55c06514ce15a8377291cf7
 wh/inv_misc_stonetablet_11.jpg 91b2cb073e207337d47e3e921525af90593db214
 wh/inv_misc_symbolofkings_01.jpg 8e74870d050a481aaff145a4a3b8de713f69a9ae
 wh/inv_misc_tabardpvp_01.jpg c361a9f303217a9f911efb11544fe6508b0e5204
@@ -6026,6 +6049,7 @@ wh/inv_pants_leather_05.jpg 7668bcf5632d8dd5892ebb81b5bbb1f31710c111
 wh/inv_pants_leather_07.jpg d378fd80b9b2cc1a76bc958f2b3dffb5a43dde1a
 wh/inv_pants_leather_09.jpg b503bfc58569bbe013025b7f3536d8935195f44c
 wh/inv_pants_leather_11.jpg f4157faa58d123822a3d2b8028f0f2f688a3f6d9
+wh/inv_pants_leather_12.jpg 6f8d31cfff282cadfafd2d6b7192a242e92d4c07
 wh/inv_pants_leather_13.jpg 48e4977516fe36331f38c559fb0b16b1a0a9b592
 wh/inv_pants_leather_19.jpg e6712c3e87ce5dd1e1cf52bdca85fc61c9db5cc8
 wh/inv_pants_leather_21.jpg 8acba50c61bc92e8ef8397c9f3bc1fe0b11dd2c1
@@ -6750,6 +6774,7 @@ wh/inv_sword_43.jpg 56d646cfc6f026f926996ac4badf9b719412e876
 wh/inv_sword_44.jpg 4c86d16ec41cde8632a36af9f20d592bcea7be65
 wh/inv_sword_45.jpg 46f255b83101497b7b862d11a84306380c59348e
 wh/inv_sword_46.jpg cdcb78a33da2d81fae199bfb6c948c0030135a37
+wh/inv_sword_47.jpg c4e235ebb859cf2c7a728c32997cb8483fca6ea1
 wh/inv_sword_48.jpg 5f998582ffae93f519145e7a2e8a612c42016ef5
 wh/inv_sword_49.jpg 8d5dff0683445588787743b812f48088dd4a6321
 wh/inv_sword_50.jpg f608a6104057387c08656ae3142af9a7f0af9bbd
@@ -6807,6 +6832,7 @@ wh/inv_trinket_naxxramas06.jpg e41ffe4d87cdf593cfd2172d74b18303dfc55d0b
 wh/inv_valentineperfumebottle.jpg bd796e3bb3acbc1b9fffcb94100e8785a5717419
 wh/inv_waepon_bow_zulgrub_d_01.jpg 531d3b182cbc002f14183d5c8b4342289d6ac70e
 wh/inv_wand_01.jpg 429cd5bf359653afac991bf23e9d50abde1a358e
+wh/inv_wand_02.jpg e56d37fe4e388a94f0a5663eaf64ed3af68eb077
 wh/inv_wand_03.jpg 850cc815fc23fffd843c8a9eff182d63d3d341f8
 wh/inv_wand_04.jpg 094f25147f1402007364c413e0fc67e8252b2787
 wh/inv_wand_05.jpg 051681acd1f0719c5cd30b9d9a7d772266a77a68
@@ -7461,6 +7487,7 @@ wh/spell_unused.jpg 3d7458699bf797ee9ec3d3231b2f0c3e9997b112
 wh/spell_unused2.jpg 115e7666085910e880081157bb5c25098389cc7f
 wh/spell_warlock_demonsoul.jpg ae8c36899b5a43bde33cf58d9e82d20dde4385b6
 wh/stave_2h_tarecgosa_e_01stagefinal.jpg cb76365ef59c1e9e7a0be8095a9febdca10f61c2
+wh/talentspec_druid_feral_bear.jpg 97f6d581ceb9f482df30541009f98b57ec2993cc
 wh/temp.jpg c0ddde5f26becc96714994099f04e713873ebe47
 wh/trade_alchemy.jpg 952e1f009002d31e0d5ba440f3a302ce09d27192
 wh/trade_alchemy_dpotion_a12.jpg 5d246c40557b3c352ec8ac559c49aa2383d72280
